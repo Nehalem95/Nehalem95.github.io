@@ -1,0 +1,17 @@
+Yu-Gi-Oh! GX Tag Force 2 + 5D's Duel Transer
+
+INICIO
+1. Extraé todo el ZIP en una carpeta.
+2. Ejecutá Abrir_Base_YuGiOh.bat.
+3. La página necesita Internet para consultar los datos de cartas en YGOPRODeck.
+
+DIAGNÓSTICO AUTOMÁTICO
+Al cargar la base, se comprueban las imágenes de las cartas listadas en ambos juegos. Se crea/actualiza DIAGNOSTICO_IMAGENES.txt en esta misma carpeta. El archivo indica las cartas que no encontraron coincidencia, que no tienen URL de imagen o cuya imagen no cargó, junto con el nombre buscado y los packs donde aparece.
+La primera comprobación puede tardar un rato porque verifica las imágenes de las cartas listadas.
+
+IMÁGENES DE LOS PACKS
+- Tag Force 2: images/packs/01.jpg hasta 48.jpg.
+- Duel Transer: images/packs-duel-transer/01.jpg hasta 24.jpg.
+Las imágenes locales tienen prioridad. Si una imagen de Duel Transer falta, la página prueba la portada de la expansión si está disponible y, como último recurso, genera una portada genérica.
+
+Si el archivo TXT no aparece, comprobá que la carpeta extraída no esté en modo solo lectura y que el archivo server.py esté junto a index.html.

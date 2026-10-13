@@ -1,0 +1,3484 @@
+Dark Beginning 1
+Ultra - 16 cartas
+  Big Shield Gardna
+  Blue-Eyes White Dragon
+  Buster Blader
+  Celtic Guardian
+  Change of Heart
+  Dark Magician
+  Dark Sage
+  Exodia the Forbidden One
+  Imperial Order
+  Jinzo
+  Mask of Restrict
+  Red-Eyes B. Dragon
+  Relinquished
+  Summoned Skull
+  Swords of Revealing Light
+  Thousand-Eyes Restrict
+Super - 11 cartas
+  B. Skull Dragon
+  Dark Hole
+  Delinquent Duo
+  Exchange
+  Fire Princess
+  Magic Drain
+  Makyura the Destructor
+  Messenger of Peace
+  Monster Reborn
+  Raigeki
+  Trap Hole
+Rare - 24 cartas
+  Axe of Despair
+  Banisher of the Light
+  Blue-Eyes Toon Dragon
+  Call of the Haunted
+  Fissure
+  Flame Swordsman
+  Gaia The Fierce Knight
+  Gaia the Dragon Champion
+  Harpie Lady Sisters
+  Hayabusa Knight
+  Kazejin
+  Magical Hats
+  Marie the Fallen One
+  Mask of Dispel
+  Megamorph
+  Premature Burial
+  Sanga of the Thunder
+  Suijin
+  The Fiend Megacyber
+  The Forceful Sentry
+  The Legendary Fisherman
+  The Masked Beast
+  Toon Summoned Skull
+  Torrential Tribute
+Common - 199 cartas
+  4-Starred Ladybug of Doom
+  Amazoness Archer
+  Ameba
+  Amphibian Beast
+  Aqua Madoor
+  Armed Ninja
+  Armored Lizard
+  Armored Zombie
+  Attack and Receive
+  Backup Soldier
+  Beaver Warrior
+  Big Eye
+  Black Pendant
+  Blast Juggler
+  Bombardment Beetle
+  Bubonic Vermin
+  Burning Land
+  Card of Safe Return
+  Ceasefire
+  Ceremonial Bell
+  Chain Destruction
+  Chain Energy
+  Chorus of Sanctuary
+  Chosen One
+  Cocoon of Evolution
+  Confiscation
+  Cure Mermaid
+  Curse of Dragon
+  Curse of the Masked Beast
+  Cyber Jar
+  DNA Surgery
+  Dancing Fairy
+  Dark King of the Abyss
+  Deepsea Warrior
+  Dimensionhole
+  Dragon Capture Jar
+  Drill Bug
+  Dust Tornado
+  Earthbound Spirit
+  Electric Snake
+  Elegant Egotist
+  Enchanted Javelin
+  Eternal Rest
+  Fairy Box
+  Fairy Meteor Crush
+  Fairy's Hand Mirror
+  Fake Trap
+  Feral Imp
+  Final Destiny
+  Flame Manipulator
+  Flash Assailant
+  Flying Kamakiri 1
+  Forced Requisition
+  Gaia Power
+  Gamble
+  Gearfried the Iron Knight
+  Giant Germ
+  Giant Rat
+  Giant Soldier of Stone
+  Giant Trunade
+  Gift of The Mystical Elf
+  Goblin Attack Force
+  Gradius
+  Grand Tiki Elder
+  Gravekeeper's Servant
+  Graverobber
+  Gravity Bind
+  Griggle
+  Ground Collapse
+  Hane-Hane
+  Harpie Lady
+  Harpie's Brother
+  Headless Knight
+  Hinotama
+  Hiro's Shadow Scout
+  Hitotsu-Me Giant
+  Horn of Light
+  Horn of the Unicorn
+  Humanoid Slime
+  Humanoid Worm Drake
+  Hyozanryu
+  Hysteric Fairy
+  Infinite Cards
+  Infinite Dismissal
+  Insect Barrier
+  Invader of the Throne
+  Jam Breeding Machine
+  Jam Defender
+  Jar of Greed
+  Jinzo 7
+  Karate Man
+  Kiseitai
+  Kojikocy
+  Kotodama
+  Labyrinth Wall
+  Larvae Moth
+  Left Arm of the Forbidden One
+  Left Leg of the Forbidden One
+  Light of Intervention
+  Lightforce Sword
+  Lightning Blade
+  Limiter Removal
+  Luminous Spark
+  Mad Sword Beast
+  Mage Power
+  Magician of Faith
+  Maha Vailo
+  Malevolent Nuzzler
+  Mammoth Graveyard
+  Man-Eater Bug
+  Manga Ryu-Ran
+  Masaki the Legendary Swordsman
+  Mask of Brutality
+  Mask of Darkness
+  Mask of Weakness
+  Mask of the Accursed
+  Masked Sorcerer
+  Melchid the Four-Face Beast
+  Minar
+  Minor Goblin Official
+  Mirror Wall
+  Molten Destruction
+  Monster Recovery
+  Morphing Jar 2
+  Mother Grizzly
+  Mystic Lamp
+  Mystic Plasma Zone
+  Mystic Tomato
+  Mystical Elf
+  Mystical Space Typhoon
+  Nimble Momonga
+  Nobleman of Crossout
+  Nobleman of Extermination
+  Numinous Healer
+  Nuvia the Wicked
+  Painful Choice
+  Parasite Paracide
+  Penguin Knight
+  Petit Moth
+  Polymerization
+  Pot of Greed
+  Rain of Mercy
+  Reaper of the Cards
+  Red Archery Girl
+  Red Medicine
+  Red-Moon Baby
+  Respect Play
+  Return of the Doomed
+  Revival Jam
+  Right Arm of the Forbidden One
+  Right Leg of the Forbidden One
+  Rising Air Current
+  Rush Recklessly
+  Scroll of Bewitchment
+  Senju of the Thousand Hands
+  Shadow of Eyes
+  Shift
+  Shining Abyss
+  Shining Angel
+  Silver Fang
+  Skull Invitation
+  Skull Servant
+  Slot Machine
+  Snatch Steal
+  Solemn Wishes
+  Sonic Bird
+  Soul Release
+  Spellbinding Circle
+  Spirit of the Breeze
+  St. Joan
+  Stop Defense
+  Sword Hunter
+  Swordsman of Landstar
+  Tailor of the Fickle
+  The Cheerful Coffin
+  The Earl of Demise
+  The Eye of Truth
+  The Forgiving Maiden
+  The Gross Ghost of Fled Dreams
+  The Portrait's Secret
+  The Reliable Guardian
+  The Shallow Grave
+  Thousand-Eyes Idol
+  Time Seal
+  Toll
+  Toon Mermaid
+  Toon World
+  Tornado Wall
+  Tribute to The Doomed
+  Type Zero Magic Crusher
+  UFO Turtle
+  Umi
+  Umiiruka
+  United We Stand
+  Upstart Goblin
+  Uraby
+  White Magical Hat
+  Winged Dragon, Guardian of the Fortress 1
+  Worm Drake
+Fuente: https://yugipedia.com/wiki/Dark_Beginning_1_(Duel_Transer)
+
+Dark Beginning 2
+Ultra - 11 cartas
+  Dark Ruler Ha Des
+  Destiny Board
+  Freed the Matchless General
+  Fushioh Richie
+  Gemini Elf
+  Guardian Sphinx
+  Hino-Kagu-Tsuchi
+  Insect Queen
+  Twin-Headed Thunder Dragon
+  Tyrant Dragon
+  Vampire Lord
+Super - 10 cartas
+  Asura Priest
+  Barrel Dragon
+  Catapult Turtle
+  Don Zaloog
+  Great Dezard
+  Ryu Senshi
+  Sasuke Samurai
+  Susa Soldier
+  The Last Warrior from Another Planet
+  Total Defense Shogun
+Rare - 20 cartas
+  Blade Knight
+  Dark Necrofear
+  Fiber Jar
+  Fiend Skull Dragon
+  Fusion Gate
+  Graceful Charity
+  Horn of Heaven
+  Injection Fairy Lily
+  Jowgen the Spiritualist
+  Kuriboh
+  Last Turn
+  Mirror Force
+  Princess of Tsurugi
+  Riryoku Field
+  Royal Command
+  Sangan
+  Spear Dragon
+  Spiritualism
+  Time Wizard
+  Witch of the Black Forest
+Common - 208 cartas
+  A Legendary Ocean
+  A Wingbeat of Giant Dragon
+  After the Struggle
+  Airknight Parshath
+  Aqua Spirit
+  Array of Revealing Light
+  Arsenal Bug
+  Axe Raider
+  Baby Dragon
+  Bad Reaction to Simochi
+  Bark of Dark Ruler
+  Battle Steer
+  Bazoo the Soul-Eater
+  Birdface
+  Black Illusion Ritual
+  Blackland Fire Dragon
+  Bladefly
+  Blast with Chain
+  Blind Destruction
+  Block Attack
+  Book of Life
+  Book of Moon
+  Book of Taiyou
+  Bottomless Shifting Sand
+  Bottomless Trap Hole
+  Bubble Crash
+  Burst Breath
+  Call of the Mummy
+  Cannon Soldier
+  Cave Dragon
+  Command Knight
+  Convulsion of Nature
+  Crass Clown
+  Creature Swap
+  Curse of Royal
+  Cyber-Stein
+  Cyclon Laser
+  Dark Balter the Terrible
+  Dark Coffin
+  Dark Dust Spirit
+  Dark Scorpion Burglars
+  Dark Spirit of the Silent
+  Dark-Piercing Light
+  De-Fusion
+  Destruction Punch
+  Dice Jar
+  Disappear
+  Double Snare
+  Dragon Manipulator
+  Dragon Piper
+  Dragon Seeker
+  Dragon's Gunfire
+  Dragon's Rage
+  Dream Clown
+  Drop Off
+  Ekibyo Drakmord
+  Emergency Provisions
+  Exiled Force
+  Fatal Abacus
+  Frontier Wiseman
+  Fushi No Tori
+  Fusion Sage
+  Fusion Sword Murasame Blade
+  Gazelle the King of Mythical Beasts
+  Giant Axe Mummy
+  Gilasaurus
+  Goddess with the Third Eye
+  Gora Turtle
+  Gradius' Option
+  Graverobber's Retribution
+  Gray Wing
+  Great Long Nose
+  Great Moth
+  Greenkappa
+  Heart of Clear Water
+  Heavy Storm
+  Hoshiningen
+  Illusionist Faceless Mage
+  Inaba White Rabbit
+  Jirai Gumo
+  Jowls of Dark Demise
+  Kaiser Sea Horse
+  King Tiger Wanghu
+  King of Yamimakai
+  Kryuel
+  Kycoo the Ghost Destroyer
+  Launcher Spider
+  Lesser Fiend
+  Little Chimera
+  Lord of the Lamp
+  Luminous Soldier
+  Luster Dragon 2
+  Machine King
+  Magic Jammer
+  Magic Reflector
+  Magical Thorn
+  Maharaghi
+  Maiden of the Aqua
+  Marauding Captain
+  Maryokutai
+  Mechanicalchaser
+  Milus Radiant
+  Miracle Dig
+  Mirage of Nightmare
+  Moisture Creature
+  Morphing Jar
+  Mucus Yolk
+  Muka Muka
+  Mysterious Guard
+  Mystic Horseman
+  Needle Ceiling
+  Needle Wall
+  Needle Worm
+  Obnoxious Celtic Guard
+  Ominous Fortunetelling
+  Opticlops
+  Ordeal of a Traveler
+  Oscillo Hero 2
+  Otohime
+  Patrician of Darkness
+  Penguin Soldier
+  Perfectly Ultimate Great Moth
+  Pharaoh's Treasure
+  Possessed Dark Soul
+  Pyramid Energy
+  Pyramid Turtle
+  Rabid Horseman
+  Reckless Greed
+  Reinforcement of the Army
+  Restructer Revolution
+  Ring of Magnetism
+  Robbin' Goblin
+  Royal Decree
+  Royal Keeper
+  Royal Oppression
+  Ryu-Kishin Powered
+  Saggi the Dark Clown
+  Second Coin Toss
+  Serpentine Princess
+  Seven Tools of the Bandit
+  Shadow Ghoul
+  Shadow Tamer
+  Share the Pain
+  Shield & Sword
+  Shining Friendship
+  Skull Knight 2
+  Skull Lair
+  Smoke Grenade of the Thief
+  Solemn Judgment
+  Soul Demolition
+  Soul of Purity and Light
+  Soul of the Pure
+  Spirit Message "A"
+  Spirit Message "I"
+  Spirit Message "L"
+  Spirit Message "N"
+  Spirit Ryu
+  Spirit's Invitation
+  Spiritual Energy Settle Machine
+  Spring of Rebirth
+  Stamping Destruction
+  Star Boy
+  Statue of the Wicked
+  Super Rejuvenation
+  Swarm of Locusts
+  Swarm of Scarabs
+  Swift Gaia the Fierce Knight
+  The A. Forces
+  The Bistro Butcher
+  The Dark Door
+  The Dragon's Bead
+  The Emperor's Holiday
+  The Immortal of Thunder
+  The Puppet Magic of Dark Ruler
+  The Rock Spirit
+  The Secret of the Bandit
+  The Statue of Easter Island
+  The Unhappy Maiden
+  The Warrior Returning Alive
+  The Wicked Worm Beast
+  Thousand Dragon
+  Thunder Dragon
+  Thunder Nyan Nyan
+  Tiger Axe
+  Timidity
+  Toon Cannon Soldier
+  Toon Defense
+  Toon Gemini Elf
+  Toon Goblin Attack Force
+  Toon Masked Sorcerer
+  Toon Table of Contents
+  Tornado Bird
+  Trap Dustshoot
+  Tremendous Fire
+  Troop Dragon
+  Tutan Mask
+  Twin-Headed Behemoth
+  Twin-Headed Wolf
+  Two-Headed King Rex
+  Vengeful Bog Spirit
+  Wandering Mummy
+  Warrior Dai Grepher
+  Winged Minion
+  Witch's Apprentice
+  Woodland Sprite
+  Yamata Dragon
+  Yata-Garasu
+  Zombyra the Dark
+Fuente: https://yugipedia.com/wiki/Dark_Beginning_2_(Duel_Transer)
+
+Dark Revelation Volume 1
+Ultra - 10 cartas
+  Amazoness Swords Woman
+  Blast Held by a Tribute
+  Breaker the Magical Warrior
+  Byser Shock
+  Chaos Command Magician
+  Double Spell
+  Kaiser Glider
+  Nightmare Wheel
+  Skull Archfiend of Lightning
+  Spell Canceller
+Super - 18 cartas
+  Amazoness Archers
+  Berserk Dragon
+  Coffin Seller
+  Dark Flare Knight
+  Dark Master - Zorc
+  Exodia Necross
+  Helpoemer
+  Lava Golem
+  Mirage Knight
+  Mystical Knight of Jackal
+  Necrovalley
+  Paladin of White Dragon
+  Question
+  Shinato, King of a Higher Plane
+  Skilled Dark Magician
+  Skilled White Magician
+  Spell Vanishing
+  Terrorking Archfiend
+Rare - 18 cartas
+  Barrel Behind the Door
+  Butterfly Dagger - Elma
+  Cost Down
+  Dark Jeroid
+  Dark Paladin
+  Dramatic Rescue
+  Gravekeeper's Chief
+  Guardian Ceal
+  Guardian Grarl
+  Interdimensional Matter Transporter
+  Judgment of Anubis
+  Legendary Flame Lord
+  Reaper on the Nightmare
+  Rope of Life
+  XY-Dragon Cannon
+  XYZ-Dragon Cannon
+  XZ-Tank Cannon
+  YZ-Tank Dragon
+Common - 221 cartas
+  A Cat of Ill Omen
+  A Deal with Dark Ruler
+  A Man with Wdjat
+  Acrobat Monkey
+  Adhesion Trap Hole
+  Agido
+  Aitsu
+  Altar for Tribute
+  Amazoness Blowpiper
+  Amazoness Fighter
+  Amazoness Paladin
+  Amazoness Spellcaster
+  Amazoness Tiger
+  An Owl of Luck
+  Ante
+  Anti-Spell
+  Apprentice Magician
+  Archfiend Soldier
+  Archfiend's Oath
+  Archfiend's Roar
+  Armor Exe
+  Arsenal Robber
+  Arsenal Summoner
+  Autonomous Action Unit
+  Banner of Courage
+  Battle Footballer
+  Battle-Scarred
+  Big Bang Shot
+  Blindly Loyal Goblin
+  Burning Beast
+  Buster Rancher
+  Card Shuffle
+  Cat's Ear Tribe
+  Cestus of Dagla
+  Charm of Shabti
+  Checkmate
+  Cliff the Trap Remover
+  Cobra Jar
+  Combination Attack
+  Continuous Destruction Punch
+  Contract with Exodia
+  Contract with the Abyss
+  Contract with the Dark Master
+  Curse of Aging
+  Cyber Raider
+  D. Tribe
+  D.D. Crazy Beast
+  D.D. Trainer
+  D.D. Warrior Lady
+  Dark Blade
+  Dark Cat with White Tail
+  Dark Core
+  Dark Designator
+  Dark Room of Nightmare
+  Dark Scorpion - Chick the Yellow
+  Dark Scorpion - Gorg the Strong
+  Dark Scorpion - Meanae the Thorn
+  Dark Scorpion Combination
+  Dark Snake Syndrome
+  Darkbishop Archfiend
+  Decayed Commander
+  Demotion
+  Des Dendle
+  Des Feral Imp
+  Des Koala
+  Despair from the Dark
+  Desrook Archfiend
+  Dice Re-Roll
+  Different Dimension Capsule
+  Different Dimension Dragon
+  Different Dimension Gate
+  Diffusion Wave-Motion
+  Dimension Jar
+  Disarmament
+  Disturbance Strategy
+  Dragged Down into the Grave
+  Emblem of Dragon Destroyer
+  Exhausting Spell
+  Fairy of the Spring
+  Falling Down
+  Fear from the Dark
+  Final Attack Orders
+  Final Countdown
+  Formation Union
+  Freezing Beast
+  Frontline Base
+  Frozen Soul
+  Gagagigo
+  Gather Your Mind
+  Giant Orc
+  Goblin of Greed
+  Gravekeeper's Assailant
+  Gravekeeper's Cannonholder
+  Gravekeeper's Curse
+  Gravekeeper's Guard
+  Gravekeeper's Spear Soldier
+  Gravekeeper's Spy
+  Gravekeeper's Vassal
+  Gravekeeper's Watcher
+  Gravity Axe - Grarl
+  Great Angus
+  Great Maju Garzett
+  Great Phantom Thief
+  Guardian Baou
+  Guardian Elma
+  Guardian Kay'est
+  Guardian Tryce
+  Gyaku-Gire Panda
+  Helping Robo for Combat
+  Hidden Book of Spell
+  Hieroglyph Lithograph
+  Huge Revolution
+  Incandescent Ordeal
+  Infernalqueen Archfiend
+  Inpachi
+  Iron Blacksmith Kotetsu
+  Jar Robber
+  Kabazauls
+  Kaiser Colosseum
+  Kelbek
+  Keldo
+  Kiryu
+  Kishido Spirit
+  Koitsu
+  Little-Winguard
+  Luster Dragon
+  Magical Marionette
+  Magical Merchant
+  Magical Plant Mandragola
+  Magical Scientist
+  Maju Garzett
+  Mass Driver
+  Master Kyonshee
+  Mefist the Infernal General
+  Mega Ton Magical Cannon
+  Metallizing Parasite - Lunatite
+  Metalsilver Armor
+  Metamorphosis
+  Meteorain
+  Miracle Restoring
+  Morale Boost
+  Mudora
+  Mustering of the Dark Scorpions
+  My Body as a Shield
+  Narrow Pass
+  Neko Mane King
+  Newdoria
+  Nightmare Horse
+  Nin-Ken Dog
+  Non Aggression Area
+  Non-Spellcasting Area
+  Ojama Green
+  Ojama Trio
+  Old Vindictive Magician
+  Oppressed People
+  Outstanding Dog Marron
+  Pandemonium
+  Pandemonium Watchbear
+  People Running About
+  Physical Double
+  Pigeonholing Books of Spell
+  Pineapple Blast
+  Pitch-Black Power Stone
+  Pitch-Dark Dragon
+  Pixie Knight
+  Poison of the Old Man
+  Precious Cards from Beyond
+  Raigeki Break
+  Raregold Armor
+  Ray of Hope
+  Really Eternal Rest
+  Reasoning
+  Reflect Bounder
+  Remove Brainwashing
+  Reversal Quiz
+  Rite of Spirit
+  Rivalry of Warlords
+  Rod of Silence - Kay'est
+  Rod of the Mind's Eye
+  Roulette Barrel
+  Royal Magical Library
+  Royal Tribute
+  Sakuretsu Armor
+  Sasuke Samurai 2
+  Second Goblin
+  Secret Barrel
+  Senri Eye
+  Shadowknight Archfiend
+  Shinato's Ark
+  Shooting Star Bow - Ceal
+  Skill Drain
+  Sonic Duck
+  Spell Reproduction
+  Spell Shield Type-8
+  Spirit Reaper
+  Staunch Defender
+  Terraforming
+  The Spell Absorbing Life
+  Thousand Needles
+  Thunder of Ruler
+  Token Thanksgiving
+  Trap of Board Eraser
+  Tribe-Infecting Virus
+  Tribute Doll
+  Tsukuyomi
+  Twin Swords of Flashing Light - Tryce
+  Ultimate Obedient Fiend
+  Union Rider
+  United Resistance
+  Vampire Orchis
+  Vilepawn Archfiend
+  Wave-Motion Cannon
+  White Dragon Ritual
+  Wicked-Breaking Flamberge - Baou
+  Winged Sage Falcos
+  X-Head Cannon
+  Y-Dragon Head
+  Yomi Ship
+  Z-Metal Tank
+  Zolga
+  Zombie Tiger
+Fuente: https://yugipedia.com/wiki/Dark_Revelation_Volume_1_(Duel_Transer)
+
+Dark Revelation Volume 2
+Ultra - 12 cartas
+  Archlord Zerato
+  Black Luster Soldier - Envoy of the Beginning
+  Blowback Dragon
+  Dark Magic Attack
+  Dark Magician of Chaos
+  Ghost Knight of Jackal
+  Insect Princess
+  Levia-Dragon - Daedalus
+  Mazera DeVille
+  Spirit of the Pharaoh
+  Strike Ninja
+  The End of Anubis
+Super - 11 cartas
+  Big Burn
+  Curse of Anubis
+  D.D. Designator
+  Dedication through Light and Darkness
+  Dimension Fusion
+  Emissary of the Afterlife
+  Freed the Brave Wanderer
+  Guardian Angel Joan
+  Legacy Hunter
+  The Agent of Judgment - Saturn
+  The First Sarcophagus
+Rare - 22 cartas
+  Amplifier
+  Burst Stream of Destruction
+  Chain Disappearance
+  Chaos Emperor Dragon - Envoy of the End
+  Curse of Darkness
+  Des Counterblow
+  Double Coston
+  Drillago
+  Enemy Controller
+  Invader of Darkness
+  Lekunga
+  Level Limit - Area B
+  Manticore of Darkness
+  Mermaid Knight
+  Needle Burrower
+  Robbin' Zombie
+  Smashing Ground
+  Special Hurricane
+  Stray Lambs
+  Theban Nightmare
+  Trap Jammer
+  Zaborg the Thunder Monarch
+Common - 179 cartas
+  3-Hump Lacooda
+  7
+  A Hero Emerges
+  Absorbing Kid from the Sky
+  Amphibious Bugroth MK-3
+  Anti-Aircraft Flower
+  Arcane Archer of the Forest
+  Armor Break
+  Aswan Apparition
+  Atomic Firefly
+  Avatar of The Pot
+  Backfire
+  Balloon Lizard
+  Beckoning Light
+  Begone, Knave!
+  Berserk Gorilla
+  Big Koala
+  Black Tyranno
+  Blasting the Ruins
+  Blazing Inpachi
+  Blessings of the Nile
+  Bowganian
+  Burning Algae
+  Cannonball Spear Shellfish
+  Chaos End
+  Chaos Greed
+  Chaos Necromancer
+  Chaos Sorcerer
+  Chaosrider Gustaph
+  Chopman the Desperate Outlaw
+  Coach Goblin
+  Compulsory Evacuation Device
+  Crimson Ninja
+  Cursed Seal of the Forbidden Spell
+  D.D. Borderline
+  D.D. Scout Plane
+  DNA Transplant
+  Dark Driceratops
+  Dark Mirror Force
+  Delta Attacker
+  Des Kangaroo
+  Desert Sunlight
+  Desertapir
+  Destruction Ring
+  Dimension Distortion
+  Disc Fighter
+  Don Turtle
+  Dora of Fate
+  Draining Shield
+  Dust Barrier
+  Earth Chant
+  Earthquake
+  Elephant Statue of Blessing
+  Elephant Statue of Disaster
+  Emissary of the Oasis
+  Enchanting Fitting Room
+  Energy Drain
+  Enraged Battle Ox
+  Fenrir
+  Fiend Scorpion
+  Fiend's Hand Mirror
+  Fuhma Shuriken
+  Gale Lizard
+  Gear Golem the Moving Fortress
+  Getsu Fuhma
+  Giga Gagagigo
+  Gigantes
+  Gigobyte
+  Goblin King
+  Goblin Thief
+  Gogiga Gagagigo
+  Gora Turtle of Illusion
+  Granadora
+  Grave Protector
+  Gren Maju Da Eiza
+  Gryphon's Feather Duster
+  Heart of the Underdog
+  Human-Wave Tactics
+  Hyper Hammerhead
+  Inferno
+  Jade Insect Whistle
+  Judgment of the Desert
+  KA-2 Des Scissors
+  King of the Swamp
+  Kozaky
+  Labyrinth of Nightmare
+  Lady Ninja Yae
+  Legendary Jujitsu Master
+  Light of Judgment
+  Lord Poison
+  Mad Dog of Darkness
+  Man-Thro' Tro'
+  Manju of the Ten Thousand Hands
+  Mataza the Zapper
+  Metal Armored Bug
+  Micro Ray
+  Mokey Mokey
+  Molten Zombie
+  Monster Gate
+  Multiplication of Ants
+  Mystical Shine Ball
+  Mystik Wok
+  Neo Bug
+  Night Assailant
+  Ninjitsu Art of Transformation
+  Nubian Guard
+  Ojama Black
+  Ojama Delta Hurricane!!
+  Ojama Yellow
+  Opti-Camouflage Armor
+  Orca Mega-Fortress of Darkness
+  Order to Charge
+  Order to Smash
+  Pharaoh's Servant
+  Pharaonic Protector
+  Pinch Hopper
+  Piranha Army
+  Prickle Fairy
+  Primal Seed
+  Protector of the Sanctuary
+  Recycle
+  Regenerating Mummy
+  Reload
+  Rocket Jumper
+  Ryu Kokki
+  Sacred Crane
+  Salvage
+  Sand Gambler
+  Sasuke Samurai 3
+  Sea Serpent Warrior of Darkness
+  Sealmaster Meisei
+  Self-Destruct Button
+  Silpheed
+  Skull-Mark Ladybug
+  Solar Flare Dragon
+  Solar Ray
+  Sonic Jammer
+  Soul Absorption
+  Soul Resurrection
+  Soul Reversal
+  Soul Tiger
+  Soul-Absorbing Bone Tower
+  Spatial Collapse
+  Spell Economics
+  Spirit Caller
+  Spirit of the Pot of Greed
+  Stealth Bird
+  Stone Statue of the Aztecs
+  Stumbling
+  Sword of the Soul-Eater
+  Talisman of Spell Sealing
+  Talisman of Trap Sealing
+  Terrorking Salmon
+  The Agent of Creation - Venus
+  The Agent of Force - Mars
+  The Agent of Wisdom - Mercury
+  The Kick Man
+  The Law of the Normal
+  The Sanctuary in the Sky
+  The Second Sarcophagus
+  The Thing in the Crater
+  The Third Sarcophagus
+  The Unhappy Girl
+  Thousand Energy
+  Thunder Crash
+  Torpedo Fish
+  Tower of Babel
+  Triangle Power
+  Two Thousand Needles
+  Ultra Evolution Pill
+  Vampire Lady
+  Wall of Revealing Light
+  Warrior of Zera
+  Weapon Change
+  White Magician Pikeru
+  Wild Nature's Release
+  Witch Doctor of Chaos
+  Yellow Luster Shield
+  Zero Gravity
+Fuente: https://yugipedia.com/wiki/Dark_Revelation_Volume_2_(Duel_Transer)
+
+Dark Revelation Volume 3
+Ultra - 13 cartas
+  Ancient Gear Golem
+  Armed Dragon LV7
+  Elemental Hero Thunder Giant
+  Gatling Dragon
+  Gearfried the Swordmaster
+  Horus the Black Flame Dragon LV8
+  Mystic Swordsman LV4
+  Mystic Swordsman LV6
+  Perfect Machine King
+  Reshef the Dark Being
+  Sacred Phoenix of Nephthys
+  Silent Swordsman LV3
+  The Creator
+Super - 22 cartas
+  A Feather of the Phoenix
+  Behemoth the King of All Animals
+  Big Core
+  Blast Magician
+  Deck Devastation Virus
+  Granmarg the Rock Monarch
+  Greed
+  Hallowed Life Barrier
+  Hieracosphinx
+  Horus the Black Flame Dragon LV6
+  King Dragun
+  Master Monk
+  Megarock Dragon
+  Mobius the Frost Monarch
+  Monster Reincarnation
+  Null and Void
+  Penumbral Soldier Lady
+  Thestalos the Firestorm Monarch
+  Tragedy
+  Triangle Ecstasy Spark
+  Ultimate Insect LV7
+  Winged Kuriboh
+Rare - 47 cartas
+  A-Team: Trap Disposal Unit
+  Armed Dragon LV5
+  Assault on GHQ
+  Big-Tusked Mammoth
+  Brain Jacker
+  Chain Burst
+  Chiron the Mage
+  Criosphinx
+  Cross Counter
+  Dark Blade the Dragon Knight
+  Dark Mimic LV3
+  Elemental Hero Flame Wingman
+  Elemental Mistress Doriado
+  Enervating Mist
+  Flint
+  Gaia Soul the Combustible Collective
+  Grave Ohja
+  Hero Signal
+  Horus the Black Flame Dragon LV4
+  Inferno Fire Blast
+  Kozaky's Self-Destruct Button
+  Legendary Black Belt
+  Master of Oz
+  Meteor of Destruction
+  Mid Shield Gardna
+  Millennium Scorpion
+  Mind on Air
+  Mystic Swordsman LV2
+  Ninja Grandmaster Sasuke
+  Nitro Unit
+  Ojama King
+  Penalty Game!
+  Rafflesia Seduction
+  Royal Surrender
+  Sasuke Samurai 4
+  Serial Spell
+  Shadowslayer
+  Silent Swordsman LV5
+  Spell Absorption
+  Spell-Stopping Statute
+  Spiral Spear Strike
+  Spirit Barrier
+  Swords of Concealing Light
+  Token Feastevil
+  Ultimate Insect LV1
+  Ultimate Insect LV3
+  Ultimate Insect LV5
+Common - 157 cartas
+  Abare Ushioni
+  Absolute End
+  Abyssal Designator
+  Ancient Gear Beast
+  Ancient Gear Soldier
+  Armed Dragon LV3
+  Armed Samurai - Ben Kei
+  Astral Barrier
+  Aussa the Earth Charmer
+  Back to Square One
+  Ballista of Rampart Smashing
+  Battery Charger
+  Batteryman AA
+  Beast Soul Swap
+  Big Wave Small Wave
+  Blade Rabbit
+  Bokoichi the Freightening Car
+  Brain Control
+  Card of Sanctity
+  Catnipped Kitty
+  Cemetary Bomb
+  Centrifugal Field
+  Charcoal Inpachi
+  Chu-Ske the Mouse Fighter
+  Covering Fire
+  Creeping Doom Manta
+  D.D. Dynamite
+  D.D. Survivor
+  Dark Factory of Mass Production
+  Dark Mimic LV1
+  Dekoichi the Battlechanted Locomotive
+  Des Wombat
+  Divine Dragon Ragnarok
+  Divine Wrath
+  Doriado's Blessing
+  Double Attack
+  Dummy Golem
+  Eagle Eye
+  Ectoplasmer
+  Element Doom
+  Element Dragon
+  Element Magician
+  Element Saurus
+  Element Soldier
+  Element Valkyrie
+  Elemental Burst
+  Elemental Hero Avian
+  Elemental Hero Burstinatrix
+  Elemental Hero Clayman
+  Elemental Hero Sparkman
+  Enraged Muka Muka
+  Eria the Water Charmer
+  Final Ritual of the Ancients
+  Firebird
+  Flame Ruler
+  Forced Ceasefire
+  Fox Fire
+  Fruits of Kozaky's Studies
+  Fuh-Rin-Ka-Zan
+  Fulfillment of the Contract
+  Fusilier Dragon, the Dual-Mode Beast
+  Fusion Weapon
+  Gift of the Martyr
+  Goblin Calligrapher
+  Golem Sentry
+  Good Goblin Housekeeping
+  Gorgon's Eye
+  Grave Lure
+  Guardian Statue
+  Hade-Hane
+  Hammer Shot
+  Hand of Nephthys
+  Harpie Girl
+  Harpie Lady 1
+  Harpie Lady 2
+  Harpie Lady 3
+  Harpies' Hunting Ground
+  Heavy Mech Support Platform
+  Heavy Slump
+  Hiita the Fire Charmer
+  Homunculus the Alchemic Being
+  Horus' Servant
+  Howling Insect
+  Hyena
+  Impenetrable Formation
+  Insect Knight
+  Invasion of Flames
+  Kaminote Blow
+  Kangaroo Champ
+  King of the Skull Servants
+  Level Conversion Lab
+  Level Up!
+  Lighten the Load
+  Lightning Vortex
+  Lone Wolf
+  Lost Guardian
+  Machine Duplication
+  Maji-Gire Panda
+  Malice Dispersion
+  Malice Doll of Demise
+  Masked Dragon
+  Mecha-Dog Marron
+  Medusa Worm
+  Mighty Guard
+  Mind Crush
+  Mind Haxorz
+  Mind Wipe
+  Mine Golem
+  Minefield Eruption
+  Mirage Dragon
+  Mispolymerization
+  Moai Interceptor Cannons
+  Mokey Mokey King
+  Mokey Mokey Smackdown
+  Monk Fighter
+  Necklace of Command
+  Neo Aqua Madoor
+  Nightmare Penguin
+  Ninjitsu Art of Decoy
+  Nobleman-Eater Bug
+  Phoenix Wing Wind Blast
+  Pikeru's Circle of Enchantment
+  Pikeru's Second Sight
+  Pitch-Black Warwolf
+  Poison Fangs
+  Raging Flame Sprite
+  Rare Metalmorph
+  Re-Fusion
+  Red-Eyes B. Chick
+  Release Restraint
+  Rescue Cat
+  Ritual Weapon
+  Roc from the Valley of Haze
+  Rock Bombardment
+  Sanwitch
+  Shifting Shadows
+  Skull Dog Marron
+  Space Mambo
+  Spell Purification
+  Tactical Espionage Expert
+  Taunt
+  The Big March of Animals
+  The Creator Incarnate
+  The Dark - Hex-Sealed Fusion
+  The Earth - Hex-Sealed Fusion
+  The Graveyard in the Fourth Dimension
+  The Light - Hex-Sealed Fusion
+  The Trojan Horse
+  Threatening Roar
+  Two-Man Cell Battle
+  Ultimate Baseball Kid
+  Unshaven Angler
+  Whirlwind Prodigy
+  White Ninja
+  Woodborg Inpachi
+  Wynn the Wind Charmer
+  Xing Zhen Hu
+Fuente: https://yugipedia.com/wiki/Dark_Revelation_Volume_3_(Duel_Transer)
+
+Dark Revelation Volume 4
+Ultra - 10 cartas
+  Cyber End Dragon
+  Destiny Hero - Dreadmaster
+  Elemental Hero Phoenix Enforcer
+  Elemental Hero Shining Flare Wingman
+  Elemental Hero Shining Phoenix Enforcer
+  Hamon, Lord of Striking Thunder
+  Raviel, Lord of Phantasms
+  Uria, Lord of Searing Flames
+  Voltanis the Adjudicator
+  Winged Kuriboh LV10
+Super - 22 cartas
+  Ancient Gear Castle
+  B.E.S. Covered Core
+  B.E.S. Crystal Core
+  B.E.S. Tetran
+  Cyber Phoenix
+  Cyber Prima
+  Cyber Twin Dragon
+  Demise, King of Armageddon
+  Destiny Hero - Diamond Dude
+  Divine Dragon - Excelion
+  Elemental Hero Bladedge
+  Elemental Hero Tempest
+  Goblin Elite Attack Force
+  Goldd, Wu-Lord of Dark World
+  Majestic Mech - Goryu
+  Miracle Fusion
+  Miraculous Descent
+  Pot of Avarice
+  Power Bond
+  Ruin, Queen of Oblivion
+  Super-Electromagnetic Voltech Dragon
+  Victory Viper XX03
+Rare - 41 cartas
+  Banisher of the Radiance
+  Broww, Huntsman of Dark World
+  Brron, Mad King of Dark World
+  Chainsaw Insect
+  Clock Tower Prison
+  Cyber Barrier Dragon
+  Cyber Blader
+  Cyber Laser Dragon
+  Cybernetic Magician
+  D.D. Assailant
+  Dimension Wall
+  Doom Dozer
+  Drillroid
+  Elemental Hero Rampart Blaster
+  Elemental Hero Wild Wingman
+  Elemental Hero Wildedge
+  Exarion Universe
+  Gilford the Lightning
+  Harpie's Pet Baby Dragon
+  Icarus Attack
+  Jack's Knight
+  Kaibaman
+  Karma Cut
+  King's Knight
+  Level Limit - Area A
+  Life Equalizer
+  Majestic Mech - Ohka
+  Option Hunter
+  Princess Curran
+  Princess Pikeru
+  Queen's Knight
+  Rapid-Fire Magician
+  Rising Energy
+  Satellite Cannon
+  Sillva, Warlord of Dark World
+  Skyscraper
+  System Down
+  Treeborn Frog
+  UFOroid Fighter
+  VWXYZ-Dragon Catapult Cannon
+  Water Dragon
+Common - 172 cartas
+  A Rival Appears!
+  Adhesive Explosive
+  Ancient Gear
+  Ancient Gear Cannon
+  Ancient Gear Drill
+  Ancient Gear Factory
+  Anteatereatingant
+  Armed Changer
+  Attack Reflector Unit
+  Avalanching Aussa
+  Batteryman C
+  Batteryman D
+  Beelze Frog
+  Beiige, Vanguard of Dark World
+  Blade Skater
+  Blazing Hiita
+  Bonding - H2O
+  Boss Rush
+  Bountiful Artemis
+  Branch!
+  Bubble Shuffle
+  Celestial Transformation
+  Chain Thrasher
+  Chthonian Alliance
+  Chthonian Blast
+  Chthonian Polymer
+  Chthonian Soldier
+  Conscription
+  Cyber Archfiend
+  Cyber Dragon
+  Cyber Gymnast
+  Cyber Kirin
+  Cyber Tutu
+  Cybernetic Cyclopean
+  Cyclone Boomerang
+  Cycroid
+  D - Shield
+  D - Time
+  D.3.S. Frog
+  D.D. Guide
+  D.D. Trap Hole
+  D.D.M. - Different Dimension Master
+  Damage Condenser
+  Dark Catapulter
+  Dark Deal
+  Dark World Lightning
+  Des Croaking
+  Des Frog
+  Destiny Hero - Captain Tenacious
+  Destiny Hero - Doom Lord
+  Destiny Signal
+  Destruction of Destiny
+  Dimensional Fissure
+  Disciple of the Forbidden Spell
+  Doitsu
+  Dragon's Mirror
+  E - Emergency Call
+  Ebon Magician Curran
+  Elemental Absorber
+  Elemental Hero Bubbleman
+  Elemental Hero Mariner
+  Elemental Hero Necroid Shaman
+  Elemental Hero Neo Bubbleman
+  Elemental Hero Wildheart
+  Elemental Recharge
+  End of the World
+  Etoile Cyber
+  Familiar-Possessed - Aussa
+  Familiar-Possessed - Eria
+  Familiar-Possessed - Hiita
+  Familiar-Possessed - Wynn
+  Feather Shot
+  Feather Wind
+  Fire Darts
+  Forced Back
+  Full Salvo
+  Fusion Recovery
+  Gateway to Dark World
+  Generation Shift
+  Giant Kozaky
+  Goblin Out of the Frying Pan
+  Gokipon
+  Grand Convergence
+  Grass Phantom
+  Guard Dog
+  Guard Penalty
+  Gyroid
+  H - Heated Heart
+  HERO Flash!!
+  Herald of Green Light
+  Herald of Purple Light
+  Hero Barrier
+  Hero Heart
+  Hero Kid
+  Hydrogeddon
+  Indomitable Fighter Lei Lei
+  Infernal Incinerator
+  Jerry Beans Man
+  Jetroid
+  Layard the Liberator
+  Level Modulation
+  Machine King Prototype
+  Macro Cosmos
+  Mad Lobster
+  Magical Explosion
+  Magnet Circle LV2
+  Majestic Mech - Senku
+  Malfunction
+  Malice Ascendant
+  Mechanical Hound
+  Memory Crusher
+  Miracle Kids
+  Misfortune
+  Nanobreaker
+  Next to be Lost
+  Non-Fusion Area
+  O - Oversoul
+  Ojamagic
+  Ojamuscle
+  Oxygeddon
+  Parasitic Ticky
+  Patroid
+  Phantasmal Martyrs
+  Photon Generator Unit
+  Poison Draw Frog
+  Pot of Generosity
+  Power Capsule
+  Prepare to Strike Back
+  Protective Soul Ailin
+  Proto-Cyber Dragon
+  R - Righteous Justice
+  Raging Eria
+  Reborn Zombie
+  Roll Out!
+  Royal Knight
+  Saber Beetle
+  Samsara
+  Sand Moth
+  Scarr, Scout of Dark World
+  Searchlightman
+  Shattered Axe
+  Shien's Spy
+  Silent Insect
+  Simultaneous Loss
+  Soitsu
+  Spark Blaster
+  Spiritual Earth Art - Kurogane
+  Spiritual Fire Art - Kurenai
+  Spiritual Water Art - Aoi
+  Spiritual Wind Art - Miyabi
+  Steam Gyroid
+  Steamroid
+  Storming Wynn
+  Success Probability 0%
+  Super Junior Confrontation
+  Swift Birdman Joe
+  Symbol of Heritage
+  T.A.D.P.O.L.E.
+  Tenkabito Shien
+  The Forces of Darkness
+  The League of Uniform Nomenclature
+  Transcendent Wings
+  Trial of the Princesses
+  Tyranno Infinity
+  UFOroid
+  V-Tiger Jet
+  VW-Tiger Catapult
+  W-Wing Catapult
+  Weed Out
+  Whirlwind Weasel
+  Wroughtweiler
+  Zure, Knight of Dark World
+Fuente: https://yugipedia.com/wiki/Dark_Revelation_Volume_4_(Duel_Transer)
+
+Power Of The Duelist
+Ultra - 4 cartas
+  Chimeratech Overdragon
+  Elemental Hero Aqua Neos
+  Elemental Hero Dark Neos
+  Elemental Hero Flare Neos
+Super - 7 cartas
+  Destiny Hero - Dogma
+  Destiny Hero - Double Dude
+  Neo-Spacian Aqua Dolphin
+  Neo-Spacian Dark Panther
+  Neo-Spacian Flare Scarab
+  Super Vehicroid Jumbo Drill
+  Ultimate Tyranno
+Rare - 7 cartas
+  Cyber Summon Blaster
+  Cyclone Blade
+  Destiny Hero - Dasher
+  Future Fusion
+  Overload Fusion
+  Spell Calling
+  Supercharge
+Common - 40 cartas
+  Alien Grey
+  Alien Hunter
+  Alien Mother
+  Alien Skull
+  Alien Warrior
+  Ambulance Rescueroid
+  Ambulanceroid
+  Babycerasaurus
+  Black Ptera
+  Black Stego
+  Brainwashing Beam
+  Chrysalis Dolphin
+  Common Soul
+  Contact
+  Cosmic Horror Gangi'el
+  Crop Circles
+  D - Chain
+  D - Spirit
+  Dark City
+  Decoyroid
+  Destiny Hero - Blade Master
+  Destiny Hero - Defender
+  Destiny Hero - Fear Monger
+  Destiny Mirage
+  Fake Hero
+  Flying Saucer Muusik'i
+  Fossil Excavation
+  Mausoleum of the Emperor
+  Miracle Jurassic Egg
+  Neo Space
+  Orbital Bombardment
+  Rallis the Star Bird
+  Rescueroid
+  Royal Writ of Taxation
+  Sabersaurus
+  Submarineroid
+  Synthetic Seraphim
+  The Paths of Destiny
+  Vehicroid Connection Zone
+  Wonder Garage
+Fuente: https://yugipedia.com/wiki/Power_Of_The_Duelist_(Duel_Transer)
+
+Cyberdark Impact
+Ultra - 4 cartas
+  Allure Queen LV7
+  Cyber Ogre 2
+  Cyberdark Dragon
+  Dark Lucius LV8
+Super - 4 cartas
+  Cyber Esper
+  Cyber Shadow Gardna
+  Storm Shooter
+  Trojan Blast
+Rare - 8 cartas
+  Allure Queen LV5
+  Black Horn of Heaven
+  Blasting Fuse
+  Combo Master
+  Dark Lucius LV6
+  Flash of the Forbidden Spell
+  Lightning Punisher
+  Vanity's Fiend
+Common - 44 cartas
+  Abaki
+  Accumulated Fortune
+  Alien Infiltrator
+  Alien Mars
+  Allure Queen LV3
+  Barrier Statue of the Abyss
+  Barrier Statue of the Drought
+  Barrier Statue of the Heavens
+  Barrier Statue of the Inferno
+  Barrier Statue of the Stormwinds
+  Barrier Statue of the Torrent
+  Blast Asmodian
+  Byroad Sacrifice
+  Chain Detonation
+  Chain Healing
+  Chain Strike
+  Combo Fighter
+  Corruption Cell "A"
+  Counter Cleaner
+  Cyber Ogre
+  Cyberdark Edge
+  Cyberdark Horn
+  Cyberdark Keel
+  Dark Lucius LV4
+  Degenerate Circuit
+  Dimensional Inversion
+  Flame Ogre
+  Instant Fusion
+  Iris, the Earth Mother
+  Justi-Break
+  Level Down!?
+  Linear Accelerator Cannon
+  Man Beast of Ares
+  Miraculous Rebirth
+  Mystical Wind Typhoon
+  Queen's Bodyguard
+  Rampaging Rhynos
+  Ritual Foregone
+  Senet Switch
+  Snipe Hunter
+  Straight Flush
+  Stray Asmodian
+  Vanity's Call
+  Vanity's Ruler
+Fuente: https://yugipedia.com/wiki/Cyberdark_Impact_(Duel_Transer)
+
+Strike Of Neos
+Ultra - 3 cartas
+  Elemental Hero Glow Neos
+  Elemental Hero Grand Neos
+  Reign-Beaux, Overlord of Dark World
+Super - 6 cartas
+  Card Trader
+  Dark World Dealings
+  Gene-Warped Warwolf
+  Great Shogun Shien
+  Neo-Spacian Air Hummingbird
+  Skyscraper 2 - Hero City
+Rare - 8 cartas
+  Cloak and Dagger
+  Elemental Hero Air Neos
+  Frostosaurus
+  Fusion Devourer
+  Neo-Parshath, the Sky Paladin
+  Neos Force
+  Pulling the Rug
+  The Transmigration Prophecy
+Common - 52 cartas
+  "A" Cell Scatter Burst
+  Advanced Ritual Art
+  Aegis of Gaia
+  Alien Psychic
+  Ancient Rules
+  Anti-Fusion Device
+  Birthright
+  Change of Hero - Reflector Ray
+  Cú Chulainn the Awakened
+  D.D. Crow
+  Destruction Cyclone
+  Electric Virus
+  Eliminating the League
+  Emblem of the Awakening
+  Firestorm Prominence
+  Flashbang
+  Freya, Spirit of Victory
+  Gellenduo
+  Grandmaster of the Six Samurai
+  Gren, Tactician of Dark World
+  Harvest Angel of Wisdom
+  Hero Medal
+  Kahkki, Guerilla of Dark World
+  Legendary Ebon Steed
+  Lycanthrope
+  Marionette Mite
+  Meltiel, Sage of the Sky
+  Neo-Spacian Glow Moss
+  Neo-Spacian Grand Mole
+  Nova Summoner
+  Puppet Plant
+  Radiant Jeral
+  Radiant Spirit
+  Raging Earth
+  Return of the Six Samurai
+  Ritual Sealing
+  Sage of Silence
+  Sage of Stillness
+  Shien's Castle of Mist
+  Shien's Footsoldier
+  Silent Abyss
+  Spiral Serpent
+  Swift Samurai Storm!
+  Synthesis Spell
+  The Six Samurai - Irou
+  The Six Samurai - Kamon
+  The Six Samurai - Nisashi
+  The Six Samurai - Yaichi
+  The Six Samurai - Yariza
+  The Six Samurai - Zanji
+  Twister
+  Umbral Soul
+Fuente: https://yugipedia.com/wiki/Strike_Of_Neos_(Duel_Transer)
+
+Force Of The Breaker
+Ultra - 4 cartas
+  Crystal Beast Sapphire Pegasus
+  Diabolos, King of the Abyss
+  Elemental Hero Captain Gold
+  Phantom Beast Rock-Lizard
+Super - 7 cartas
+  Radiant Mirror Force
+  Raiza the Storm Monarch
+  Sky Scourge Enrise
+  Sky Scourge Invicil
+  Sky Scourge Norleras
+  Soul of Fire
+  Tri-Blaze Accelerator
+Rare - 11 cartas
+  Ancient City - Rainbow Ruins
+  Archfiend General
+  Crystal Beast Topaz Tiger
+  Goe Goe the Gallant Ninja
+  Harpie Queen
+  Lucky Iron Axe
+  Rare Value
+  Volcanic Doomfire
+  Volcanic Rocket
+  Volcanic Shell
+  Volcanic Slicer
+Common - 48 cartas
+  "A" Cell Breeding Device
+  Backs to the Wall
+  Blaze Accelerator
+  Breakthrough!
+  Crystal Abundance
+  Crystal Beacon
+  Crystal Beast Amber Mammoth
+  Crystal Beast Amethyst Cat
+  Crystal Beast Cobalt Eagle
+  Crystal Beast Emerald Tortoise
+  Crystal Beast Ruby Carbuncle
+  Crystal Blessing
+  Crystal Promise
+  Crystal Raigeki
+  Destroyersaurus
+  Dweller in the Depths
+  Eradicator Epidemic Virus
+  Field Barrier
+  Firewall
+  Gem Flash Energy
+  Gravekeeper's Commandant
+  Gravi-Crush Dragon
+  Hard-sellin' Goblin
+  Hard-sellin' Zombie
+  Introduction to Gallantry
+  Last Resort
+  Lich Lord, King of the Underworld
+  Magna-Slash Dragon
+  Mass Hypnosis
+  Mei-Kou, Master of Barriers
+  Mist Archfiend
+  Otherworld - The "A" Zone
+  Plague Wolf
+  Prometheus, King of the Shadows
+  Recurring Nightmare
+  Secrets of the Gallant
+  Seismic Crasher
+  Sword of Dark Rites
+  Terrible Deal
+  Tornado
+  Triggered Summon
+  Volcanic Blaster
+  Volcanic Hammerer
+  Volcanic Recharge
+  Volcanic Scattershot
+  Warrior of Atlantis
+  Wild Fire
+  Zeradias, Herald of Heaven
+Fuente: https://yugipedia.com/wiki/Force_Of_The_Breaker_(Duel_Transer)
+
+Tactical Evolution
+Ultra - 2 cartas
+  Elemental Hero Magma Neos
+  Vennominaga the Deity of Poisonous Snakes
+Super - 9 cartas
+  Aquarian Alessa
+  Chthonian Emperor Dragon
+  Cyberdark Impact!
+  Desert Twister
+  Doom Shaman
+  Elemental Hero Darkbright
+  Frost and Flame Dragon
+  Lucky Pied Piper
+  Vennominon the King of Poisonous Snakes
+Rare - 12 cartas
+  Common Charity
+  Elemental Hero Marine Neos
+  Elemental Hero Neos Alius
+  Gift Card
+  Grasschopper
+  Necro Gardna
+  Rainbow Dragon
+  Snake Deity's Command
+  Snake Rain
+  Spell Reclamation
+  Summoner's Art
+  Trap Reclamation
+Common - 67 cartas
+  Abyssal Kingshark
+  Alien Shocktrooper
+  Ambush Fangs
+  Amulet of Ambition
+  Blazewing Butterfly
+  Broken Bamboo Sword
+  Chrysalis Chicky
+  Chrysalis Larva
+  Chrysalis Mole
+  Chrysalis Pantail
+  Chrysalis Pinny
+  Cocoon Party
+  Cocoon Rebirth
+  Cocoon Veil
+  Convert Contact
+  Counter Counter
+  Cranium Fish
+  Creature Seizure
+  Crystal Seer
+  Damage = Reptile
+  Dark Effigy
+  Dawnbreak Gardna
+  Destructive Draw
+  Double Summon
+  Fifth Hope
+  Flint Lock
+  Flint Missile
+  Fossil Tusker
+  Gemini Summoner
+  Goggle Golem
+  Gravitic Orb
+  Hero Counterattack
+  Hunter Dragon
+  Il Blud
+  King Pyron
+  Light Effigy
+  Mirror Gate
+  Mormolith
+  Neo Space Pathfinder
+  Neo-Spacian Marine Dolphin
+  NEX
+  Ocean's Keeper
+  Ojama Knight
+  Phalanx Pike
+  Phantom Cricket
+  Phantom Dragonray Bronto
+  Razor Lizard
+  Renge, Gatekeeper of Dark World
+  Reverse of Neos
+  Rise of the Snake Deity
+  Ritual Raven
+  Shadow Delver
+  Shield Spear
+  Snake Whistle
+  Strike Slash
+  Symbols of Duty
+  The Gift of Greed
+  Thousand-Eyes Jellyfish
+  Venom Boa
+  Venom Burn
+  Venom Cobra
+  Venom Serpent
+  Venom Shot
+  Venom Snake
+  Venom Swamp
+  Volcanic Rat
+  Zombie Master
+Fuente: https://yugipedia.com/wiki/Tactical_Evolution_(Duel_Transer)
+
+Gladiator'S Assault
+Ultra - 5 cartas
+  Cloudian - Eye of the Typhoon
+  Elemental Hero Chaos Neos
+  Gladiator Beast Alexander
+  Gladiator Beast Heraklinos
+  Vortex Trooper
+Super - 9 cartas
+  Energy-Absorbing Monolith
+  Enishi, Shien's Chancellor
+  Gladiator Beast Gaiodiaz
+  Gladiator Beast Octavius
+  Gladiator Beast Spartacus
+  No Entry!!
+  Phantom of Chaos
+  Royal Firestorm Guards
+  Super Vehicroid - Stealth Union
+Rare - 16 cartas
+  Alien Telepath
+  Cell Explosion Virus
+  Cloudian - Cirrostratus
+  Cloudian - Sheep Cloud
+  Colosseum - Cage of the Gladiator Beasts
+  Elemental Hero Plasma Vice
+  Evil Hero Dark Gaia
+  Evil Hero Inferno Wing
+  Evil Hero Lightning Golem
+  Evil Hero Malicious Edge
+  Expressroid
+  Gladiator Beast Murmillo
+  Security Orb
+  Skreech
+  Test Tiger
+  Updraft
+Common - 62 cartas
+  "A" Cell Incubator
+  Alien Hypno
+  An Unfortunate Report
+  Ancient Gear Knight
+  Chamberlain of the Six Samurai
+  Cloudian - Acid Cloud
+  Cloudian - Altus
+  Cloudian - Ghost Fog
+  Cloudian - Nimbusman
+  Cloudian - Poison Cloud
+  Cloudian - Smoke Ball
+  Cloudian - Turbulence
+  Cloudian Squall
+  Contact Out
+  Cunning of the Six Samurai
+  Dark Fusion
+  Defensive Tactics
+  Detonator Circle "A"
+  Diamond-Dust Cyclone
+  Disarm
+  Double-Edged Sword Technique
+  Dragon Ice
+  Evil Hero Infernal Gainer
+  Fog Control
+  Foolish Revival
+  Gambler of Legend
+  Gladiator Beast Bestiari
+  Gladiator Beast Dimacari
+  Gladiator Beast Hoplomus
+  Gladiator Beast Laquari
+  Gladiator Beast Secutor
+  Gladiator Beast Torax
+  Gladiator Beast's Battle Gladius
+  Gladiator Beast's Battle Halberd
+  Gladiator Beast's Battle Manica
+  Gladiator Beast's Respite
+  Gladiator's Return
+  Goblin Black Ops
+  Infinity Dark
+  Interdimensional Warp
+  Light-Imprisoning Mirror
+  Lucky Cloud
+  Magical Reflect Slime
+  Natural Disaster
+  Over Limit
+  Parry
+  Rain Storm
+  Release from Stone
+  Shadow-Imprisoning Mirror
+  Soul Devouring Bamboo Sword
+  Spirit of the Six Samurai
+  Stealthroid
+  Summon Cloud
+  Super Double Summon
+  Superalloy Beast Raptinus
+  Swiftstrike Armor
+  Swing of Memories
+  Test Ape
+  Tongue Twister
+  Truckroid
+  Veil of Darkness
+  Witch Doctor of Sparta
+Fuente: https://yugipedia.com/wiki/Gladiator%27S_Assault_(Duel_Transer)
+
+Phantom Darkness
+Ultra - 6 cartas
+  Dark Horus
+  Darklord Zerato
+  Elemental Hero Storm Neos
+  Rainbow Dark Dragon
+  Rainbow Neos
+  Yubel - The Ultimate Nightmare
+Super - 9 cartas
+  Allure of Darkness
+  Cyber Valley
+  Dark Nephthys
+  Dark Spirit Art - Greed
+  Dimension Explosion
+  Prime Material Dragon
+  Super Polymerization
+  Volcanic Counter
+  Yubel - Terror Incarnate
+Rare - 15 cartas
+  Armageddon Knight
+  Belial - Marquis of Darkness
+  Blue Thunder T-45
+  Cry Havoc!
+  Dark Eruption
+  Darknight Parshath
+  Drastic Drop Off
+  Escape from the Dark Dimension
+  Fires of Doomsday
+  Lonefire Blossom
+  Rainbow Life
+  Shadowpriestess of Ohm
+  The Beginning of the End
+  The Dark Creator
+  Vicious Claw
+Common - 61 cartas
+  Acidic Downpour
+  Alchemy Cycle
+  All-Out Attacks
+  Armored Cybern
+  Atlantean Pikeman
+  Aztekipede, the Worm Warrior
+  Black Veloci
+  Cannon Soldier MK-2
+  Chain Material
+  Chain Summoning
+  Cyber Ouroboros
+  Cybernetic Hidden Technology
+  Cybernetic Zone
+  Dark Armed Dragon
+  Dark Crusader
+  Dark Grepher
+  Dark Illusion
+  Dark World Grimoire
+  Deepsea Macrotrema
+  Destiny Hero - Departed
+  Destiny Hero - Dunker
+  Doomsday Horror
+  Double Tag Team
+  Earth Effigy
+  Field-Commander Rahz
+  Fine
+  Fire Trooper
+  Future Samurai
+  Gemini Lancer
+  Gemini Trap Hole
+  Gigaplant
+  Gladiator Beast Andal
+  Gladiator Beast Darius
+  Gladiator Beast's Battle Archfiend Shield
+  Gladiator Proving Ground
+  Golden Flying Fish
+  Hate Buster
+  Imprisoned Queen Archfiend
+  Instant Neo Space
+  Magnetic Mosquito
+  Metabo Globster
+  Mirage Tube
+  Neo-Spacian Twinkle Moss
+  Obsidian Dragon
+  Offering to the Snake Deity
+  Rainbow Path
+  Rainbow Veil
+  Regenerating Rose
+  Samsara Lotus
+  Sea Koala
+  Sinister Seeds
+  Six Samurai United
+  Spell Chronicle
+  Superancient Deepsea King Coelacanth
+  The Calculator
+  The Immortal Bushi
+  Transmigration Break
+  Unleash Your Power!
+  Vengeful Shinobi
+  Wind Effigy
+  Yubel
+Fuente: https://yugipedia.com/wiki/Phantom_Darkness_(Duel_Transer)
+
+Light Of Destruction
+Ultra - 9 cartas
+  Arcana Force EX - The Dark Ruler
+  Destiny End Dragoon
+  Fog King
+  Fossil Dyna Pachycephalo
+  Guardian of Order
+  Honest
+  Judgment Dragon
+  Kuraz the Light Monarch
+  Ultimate Ancient Gear Golem
+Super - 9 cartas
+  Arcana Force XXI - The World
+  Celestia, Lightsworn Angel
+  Diskblade Rider
+  DUCKER Mobile Cannon
+  Ehren, Lightsworn Monk
+  Jinzo - Lord
+  Light of Redemption
+  Lyla, Lightsworn Sorceress
+  Phantom Dragon
+Rare - 12 cartas
+  Arcana Force XIV - Temperance
+  Batteryman Industrial Strength
+  Froggy Forcefield
+  Golden Ladybug
+  Hero Blast
+  Jinzo - Returner
+  Light Barrier
+  Magical Exemplar
+  Short Circuit
+  Simorgh, Bird of Ancestry
+  Substitoad
+  Super-Ancient Dinobeast
+Common - 63 cartas
+  Arcana Call
+  Arcana Force 0 - The Fool
+  Arcana Force I - The Magician
+  Arcana Force III - The Empress
+  Arcana Force IV - The Emperor
+  Arcana Force VI - The Lovers
+  Arcana Force VII - The Chariot
+  Arcana Force XVIII - The Moon
+  Aurkus, Lightsworn Druid
+  Batteryman Charger
+  Batteryman Micro-Cell
+  Cloudian - Storm Dragon
+  Cross Porter
+  Cup of Ace
+  D - Formation
+  D - Fortune
+  Dark General Freed
+  Dark Valkyria
+  Deck Lockdown
+  Demise of the Land
+  Destiny Hero - Dread Servant
+  Destruction Jammer
+  Dice Try!
+  Flame Spirit Ignis
+  Garoth, Lightsworn Warrior
+  Gladiator Beast Gyzarus
+  Gladiator Lash
+  Glorious Illusion
+  Goblin Recon Squad
+  Golden Bamboo Sword
+  Gragonith, Lightsworn Dragon
+  Hero Mask
+  Interplanetary Invader "A"
+  Jain, Lightsworn Paladin
+  Level Tuning
+  Light Spiral
+  Limit Reverse
+  Lucky Chance
+  Lumina, Lightsworn Summoner
+  Maniacal Servant
+  Miracle Flipper
+  Mystical Cards of Light
+  Nimble Musasabi
+  Portable Battery Pack
+  Quick Charger
+  Raging Cloudian
+  Rainbow Gravity
+  Realm of Light
+  Reversal of Fate
+  Ribbon of Rebirth
+  Ryko, Lightsworn Hunter
+  Sanguine Swamp
+  Solar Recharge
+  Space Gift
+  Spell Gear
+  Summon Limit
+  The Lady in Wight
+  Tour of Doom
+  Unifrog
+  Vanquishing Light
+  Volcanic Queen
+  Wetlands
+  Wulf, Lightsworn Beast
+Fuente: https://yugipedia.com/wiki/Light_Of_Destruction_(Duel_Transer)
+
+The Duelist Genesis
+Ultra - 10 cartas
+  Cold Enchanter
+  Dark Hunter
+  Fiendish Engine Ω
+  Goyo Guardian
+  Ice Master
+  Nitro Warrior
+  Red Dragon Archfiend
+  Splendid Venus
+  Stardust Dragon
+  Thought Ruler Archfiend
+Super - 4 cartas
+  Avenging Knight Parshath
+  Multiple Piece Golem
+  Sinister Sprocket
+  Toy Magician
+Rare - 18 cartas
+  Big Piece Golem
+  Charge of the Light Brigade
+  Defense Draw
+  Fighting Spirit
+  Graceful Revival
+  Handcuffs Dragon
+  Herald of Orange Light
+  Intercept
+  Medium Piece Golem
+  Mind Master
+  Montage Dragon
+  Needlebug Nest
+  Nitro Synchron
+  Power Filter
+  Psychic Overload
+  Synchro Deflector
+  Twin-Barrel Dragon
+  Yamato-no-Kami
+Common - 63 cartas
+  Battle Tuned
+  Beast of the Pharaoh
+  Book of Eclipse
+  Broken Blocker
+  Counselor Lily
+  Cyber Shark
+  Dark Resonator
+  Destructotron
+  De-Synchro
+  Dharc the Dark Charmer
+  Doctor Cranium
+  Domino Effect
+  Emergency Teleport
+  Equip Shot
+  Fish Depth Charge
+  Geartown
+  Ghost Gardna
+  Gladiator Beast Equeste
+  Gladiator Beast War Chariot
+  Gonogo
+  Grapple Blocker
+  Hand of the Six Samurai
+  Izanagi
+  Izanami
+  Jenis, Lightsworn Mender
+  Judgment of Thunder
+  Junk Barrage
+  Jutte Fighter
+  Kinka-byo
+  Krebons
+  Kunoichi
+  Lightsworn Barrier
+  Lightsworn Sabre
+  Lightwave Tuning
+  Magical Android
+  Maiden of Macabre
+  Mecha Bunny
+  Mind Over Matter
+  Mind Protector
+  Mirror of Yata
+  Noisy Gnat
+  Orb of Yasaka
+  Overworked
+  Oyster Meister
+  Psi-Impulse
+  Psi-Station
+  Psychic Commander
+  Psychic Rejuvenation
+  Psychic Snail
+  Quillbolt Hedgehog
+  Recycling Batteries
+  Remote Revenge
+  Shield Warrior
+  Silent Strider
+  Small Piece Golem
+  Spacegate
+  Sword of Kusanagi
+  Telekinetic Charging Cell
+  Telekinetic Shocker
+  Telepathic Power
+  Turbo Booster
+  Twin-Shield Defender
+  Unstable Evolution
+Fuente: https://yugipedia.com/wiki/The_Duelist_Genesis_(Duel_Transer)
+
+Crossroads Of Chaos
+Ultra - 8 cartas
+  Black Rose Dragon
+  Doomkaiser Dragon
+  Elemental Hero Divine Neos
+  Goka, the Pyre of Malice
+  Mosaic Manticore
+  Neos Wiseman
+  Red Ogre
+  Revived King Ha Des
+Super - 10 cartas
+  Black Garden
+  Hanewata
+  Lineage of Destruction
+  Psychic Trigger
+  Queen of Thorns
+  Rose, Warrior of Revenge
+  Storm Caller
+  Tempest Magician
+  Tiger Dragon
+  Tytannial, Princess of Camellias
+Rare - 20 cartas
+  Botanical Lion
+  Cursed Fig
+  Everliving Underworld Cannon
+  Giant Trap Hole
+  Iron Chain Dragon
+  Jade Knight
+  Machine Lord Ür
+  Mad Archfiend
+  Mark of the Rose
+  Morphtronic Accelerator
+  Morphtronic Boomboxen
+  Night's End Sorcerer
+  Plaguespreader Zombie
+  Psychic Lifetrancer
+  Psychokinesis
+  Search Striker
+  Secret Village of the Spellcasters
+  Turbo Warrior
+  Urgent Tuning
+  Zombie Mammoth
+Common - 59 cartas
+  Bamboo Scrap
+  Battle Mania
+  Botanical Girl
+  Cactus Fighter
+  Card Rotator
+  Comrade Swordsman of Landstar
+  Confusion Chaff
+  Copy Plant
+  DNA Checkup
+  Doppelganger
+  Factory of 100 Machines
+  Fragrance Storm
+  Gadget Driver
+  Gadget Hauler
+  Gigantic Cephalotus
+  Gladiator Beast Retiari
+  Goblin Decoy Squad
+  Gozen Match
+  Healing Wave Generator
+  Horseytail
+  Iron Chain Blaster
+  Iron Chain Coil
+  Iron Chain Repairman
+  Iron Chain Snake
+  Miracle Fertilizer
+  Morphtransition
+  Morphtronic Cameran
+  Morphtronic Celfon
+  Morphtronic Clocken
+  Morphtronic Cord
+  Morphtronic Datatron
+  Morphtronic Engine
+  Morphtronic Magnen
+  Morphtronic Monitron
+  Morphtronic Radion
+  Nettles
+  Omega Goggles
+  Overdrive Teleporter
+  Paralyzing Chain
+  Plant Food Chain
+  Poison Chain
+  Pollinosis
+  Power Injector
+  Prideful Roar
+  Psychic Jumper
+  Pursuit Chaser
+  Rai-Jin
+  Rai-Mei
+  Revival Gift
+  Seed of Deception
+  Seed of Flame
+  Synchro Strike
+  Teleport
+  The White Stone of Legend
+  The World Tree
+  Trap of the Imperial Tomb
+  Treacherous Trap Hole
+  Turbo Synchron
+  Wall of Ivy
+Fuente: https://yugipedia.com/wiki/Crossroads_Of_Chaos_(Duel_Transer)
+
+Crimson Crisis
+Ultra - 11 cartas
+  Arcanite Magician/Assault Mode
+  Blackwing Armor Master
+  Colossal Fighter/Assault Mode
+  Doomkaiser Dragon/Assault Mode
+  Greed Quasar
+  Hyper Psychic Blaster/Assault Mode
+  Puppet King
+  Red Dragon Archfiend/Assault Mode
+  Tethys, Goddess of Light
+  Violet Witch
+  Zeta Reticulant
+Super - 7 cartas
+  Arcanite Magician
+  Blackwing - Sirocco the Dawn
+  Cosmic Fortress Gol'gar
+  Dark Strike Fighter
+  Hyper Psychic Blaster
+  Shining Silver Force
+  Twilight Rose Knight
+Rare - 23 cartas
+  Alien Ammonite
+  Alien Overlord
+  Armoroid
+  Assault Armor
+  Assault Beast
+  B.E.S. Big Core MK-2
+  Black Salvo
+  Blackwing - Gale the Whirlwind
+  Dark Voltanis
+  Debris Dragon
+  Dimension Fortress Weapon
+  Flying Fortress SKY FIRE
+  Hydra Viper
+  Ido the Supreme Magical Force
+  Lifeforce Harmonizer
+  Planet Pollutant Virus
+  Psychic Tuning
+  Royal Swamp Eel
+  Scanner
+  Star Blast
+  Synchro Change
+  Turret Warrior
+  Wall of Thorns
+Common - 57 cartas
+  Alien Kid
+  Arcane Apprentice
+  Arcane Barrier
+  Assault Counter
+  Assault Mercenary
+  Assault Mode Activate
+  Assault Overload
+  Assault Revival
+  Assault Slash
+  Assault Teleport
+  Bee List Soldier
+  Blackwing - Bora the Spear
+  Bone Crusher
+  Code A Ancient Ruins
+  Cross-Sword Beetle
+  Dark Tinker
+  Descending Lost Star
+  Desert Protector
+  Dupe Frog
+  Ebon Arrow
+  Fake Explosion
+  Flip Flop Frog
+  Gladiator Beast Samnite
+  Half or Nothing
+  Hyper Synchron
+  Indomitable Gladiator Beast
+  Inmato
+  Ivy Shackles
+  Metaphysical Regeneration
+  Morphtronic Boarden
+  Morphtronic Forcefield
+  Morphtronic Map
+  Morphtronic Mix-up
+  Morphtronic Rusty Engine
+  Morphtronic Slingen
+  Mysterious Triangle
+  Night Wing Sorceress
+  Nightmare Archfiends
+  Prevention Star
+  Prime Material Falcon
+  Psychic Sword
+  Raptor Wing Strike
+  Seed Cannon
+  Six Scrolls of the Samurai
+  Spell Reactor・RE
+  Spirit Force
+  Submarine Frog
+  Summon Reactor・SK
+  Super Solar Nutrient
+  Telekinetic Power Well
+  Totem Dragon
+  Trap Eater
+  Trap Reactor・Y FI
+  Trojan Gladiator Beast
+  Twin-Sword Marauder
+  Vengeful Servant
+  Verdant Sanctuary
+Fuente: https://yugipedia.com/wiki/Crimson_Crisis_(Duel_Transer)
+
+Raging Battle
+Ultra Rare - 7 cartas
+  Earthbound Immortal Aslla piscu
+  Earthbound Immortal Ccapac Apu
+  Exploder Dragonwing
+  Power Tool Dragon
+  Trident Dragion
+  Light End Dragon
+  Emperor Sem
+Super Rare - 8 cartas
+  Strong Wind Dragon
+  Blackwing - Elphin the Raven
+  Koa'ki Meiru Valafar
+  Koa'ki Meiru Powerhand
+  Blackwing Armed Wing
+  Sea Dragon Lord Gishilnodon
+  Forbidden Chalice
+  Grave of the Super Ancient Organism
+Rare - 24 cartas
+  Battlestorm
+  Rockstone Warrior
+  Level Warrior
+  Dark Verger
+  Blackwing - Blizzard the Far North
+  Blackwing - Kalut the Moon Shadow
+  Morphtronic Remoten
+  Torapart
+  Brain Golem
+  Deep Sea Diva
+  G.B. Hunter
+  One for One
+  Magic Planter
+  Iron Core of Koa'ki Meiru
+  Supremacy Berry
+  Delta Crow - Anti Reverse
+  Trap Stun
+  Swallow Flip
+  Immortal Ruler
+  Hardened Armed Dragon
+  King of the Beasts
+  Chaos-End Master
+  Sphere of Chaos
+  Tree Otter
+Common - 60 cartas
+  Phoenixian Seed
+  Phoenixian Cluster Amaryllis
+  Rose Tentacles
+  Hedge Guard
+  Evil Thorn
+  Blackwing - Shura the Blue Flame
+  Morphtronic Videon
+  Morphtronic Scopen
+  Gadget Arms
+  Koa'ki Meiru Guardian
+  Koa'ki Meiru Drago
+  Koa'ki Meiru Ice
+  Koa'ki Meiru Doom
+  Minoan Centaur
+  Reinforced Human Psychic Borg
+  Master Gig
+  Emissary from Pandemonium
+  Gigastone Omega
+  Alien Dog
+  Spined Gillman
+  Mermaid Archer
+  Lava Dragon
+  Vanguard of the Dragon
+  Mind Trust
+  Thorn of Malice
+  Wonder Clover
+  Against the Wind
+  Black Whirlwind
+  Junk Box
+  Double Tool C&D
+  Morphtronic Repair Unit
+  Iron Core Immediate Disposal
+  Urgent Synthesis
+  Psychic Path
+  Natural Tune
+  Calming Magic
+  Miracle Locus
+  Crimson Fire
+  Tuner Capture
+  Overdoom Line
+  Wicked Rebirth
+  Level Retuner
+  Fake Feather
+  Morphtronic Bind
+  Reckoned Power
+  Automatic Laser
+  Attack of the Cornered Rat
+  Proof of Powerlessness
+  Bone Temple Block
+  Mirror of Oaths
+  Koa'ki Meiru War Arms
+  Moja
+  Beast Striker
+  Swallow's Nest
+  Overwhelm
+  Berserking
+  Snowman Eater
+  Ojama Red
+  Ojama Blue
+  Ojama Country
+Fuente: https://yugipedia.com/wiki/Raging_Battle_(Duel_Transer)
+
+Ancient Prophecy
+Ultra Rare - 12 cartas
+  Earthbound Immortal Cusillu
+  Earthbound Immortal Chacu Challhua
+  Ancient Fairy Dragon
+  Archfiend Zombie-Skull
+  XX-Saber Gottoms
+  Armityle the Chaos Phantom
+  Card Blocker
+  Gaia Plate the Earth Giant
+  Sauropod Brachion
+  Gaap the Divine Soldier
+  Beast Machine King Barbaros Ür
+  Red-Eyes Wyvern
+Super Rare - 9 cartas
+  Blackwing - Vayu the Emblem of Honor
+  Jester Confit
+  Koa'ki Meiru Crusader
+  Minefieldriller
+  Turbo Cannon
+  Ancient Sacred Wyvern
+  Future Visions
+  Discord
+  White Night Dragon
+Rare - 21 cartas
+  XX-Saber Gardestrike
+  Fortune Lady Light
+  Fortune Lady Fire
+  Turbo Rocket
+  Koa'ki Meiru Tornado
+  Shiny Black "C"
+  Magicat
+  Flamvell Firedog
+  Falchionβ
+  Ancient Forest
+  Core Compression
+  Skill Successor
+  Slip of Fortune
+  A Major Upset
+  Koa'ki Meiru Ghoulungulate
+  Koa'ki Meiru Gravirose
+  Card Guard
+  Flamvell Commando
+  Greed Grado
+  Kasha
+  Elemental Hero Gaia
+Common - 58 cartas
+  Kuribon
+  Sunny Pixie
+  Sunlight Unicorn
+  Blackwing - Mistral the Silver Shield
+  Blackwing - Fane the Steel Chain
+  Morphtronic Magnen Bar
+  Jester Lord
+  Infernity Beast
+  Darksea Rescue
+  Darksea Float
+  Koa'ki Meiru Boulder
+  Koa'ki Meiru Speeder
+  Koa'ki Meiru Hydro Barrier
+  Scary Moth
+  Armed Sea Hunter
+  Divine Dragon Aquabizarre
+  Fishborg Blaster
+  Shark Cruiser
+  Armored Axon Kicker
+  Genetic Woman
+  Cyborg Doctor
+  White Potan
+  XX-Saber Faultroll
+  XX-Saber Ragigura
+  Ancient Crimson Ape
+  Release Restraint Wave
+  Silver Wing
+  Advance Draw
+  Emergency Assistance
+  Spirit Burner
+  Core Blaster
+  Solidarity
+  Hydro Pressure Cannon
+  Water Hazard
+  Brain Research Lab
+  Saber Slash
+  Sword of Sparkles
+  Rekindling
+  Ancient Leaf
+  Fossil Dig
+  Reinforce Truth
+  Pixie Ring
+  Fairy Wind
+  Imperial Custom
+  Depth Amulet
+  Damage Translation
+  Battle Teleportation
+  Core Reinforcement
+  Iron Core Luster
+  Battle of the Elements
+  Aegis of the Ocean Dragon Lord
+  Psychic Soul
+  Flamvell Counter
+  At One With the Sword
+  XX-Saber Fulhelmknight
+  Psychic Emperor
+  Pseudo Space
+  Revival of the Immortals
+Fuente: https://yugipedia.com/wiki/Ancient_Prophecy_(Duel_Transer)
+
+Stardust Overdrive
+Ultra Rare - 9 cartas
+  Earthbound Immortal Ccarayhua
+  Earthbound Immortal Uru
+  Earthbound Immortal Wiraqocha Rasca
+  Majestic Star Dragon
+  Blackwing - Silverwind the Ascendant
+  Dark Simorgh
+  Ice Queen
+  Archlord Kristya
+  Guardian Eatos
+Super Rare - 9 cartas
+  Catoblepas and the Witch of Fate
+  Koa'ki Meiru Rooklord
+  Crusader of Endymion
+  Divine Grace - Northwemko
+  Reptilianne Hydra
+  Black Brutdrago
+  Explosive Magician
+  Seal of Wickedness
+  Gateway of the Six
+Rare - 19 cartas
+  Majestic Dragon
+  Max Warrior
+  Fortune Lady Wind
+  Fortune Lady Water
+  Fortune Lady Dark
+  Fortune Lady Earth
+  Mother Spider
+  Lord British Space Fighter
+  Preparation of Rites
+  Raging Mad Plants
+  Nega-Ton Corepanel
+  Stygian Dirge
+  Appointer of the Red Lotus
+  Koa'ki Meiru Maximus
+  Yellow Baboon, Archer of the Forest
+  Victoria
+  Shutendoji
+  Clear Vice Dragon
+  Clear World
+Common - 61 cartas
+  Koa'ki Meiru Beetle
+  Stardust Xiaolong
+  Quickdraw Synchron
+  Level Eater
+  Zero Gardna
+  Regulus
+  Infernity Necromancer
+  Solitaire Magician
+  Dark Spider
+  Ground Spider
+  Relinquished Spider
+  Spyder Spider
+  Reptilianne Gorgon
+  Reptilianne Medusa
+  Reptilianne Scylla
+  Reptilianne Viper
+  Koa'ki Meiru Sea Panther
+  Tuned Magician
+  Woodland Archer
+  Knight of the Red Lotus
+  Energy Bravery
+  Swap Frog
+  Oshaleon
+  Djinn Releaser of Rituals
+  Djinn Presider of Rituals
+  Spider Web
+  Earthbound Whirlwind
+  Savage Colosseum
+  Attack Pheromones
+  Molting Escape
+  Reptilianne Spawn
+  Fortune's Future
+  Time Passage
+  Iron Core Armor
+  Herculean Power
+  Gemini Spark
+  Ritual of Grace
+  Moray of Greed
+  Spiritual Forest
+  Insect Neglect
+  Faustian Bargain
+  Slip Summon
+  Synchro Barrier
+  Enlightenment
+  Bending Destiny
+  Inherited Fortune
+  Spider Egg
+  Wolf in Sheep's Clothing
+  Earthbound Wave
+  Roar of the Earthbound
+  Limit Impulse
+  Infernity Force
+  Gemini Counter
+  Gemini Booster
+  Ritual Buster
+  Shire, Lightsworn Spirit
+  Rinyan, Lightsworn Rogue
+  Gemini Scorpion
+  Metabo-Shark
+  Earthbound Revival
+  Reptilianne Poison
+Fuente: https://yugipedia.com/wiki/Stardust_Overdrive_(Duel_Transer)
+
+Absolute Powerforce
+Ultra - 12 cartas
+  Drill Warrior
+  Evil Blast
+  Majestic Red Dragon
+  Moon Dragon Quilla
+  Red-Eyes Darkness Metal Dragon
+  Shield Wing
+  Shield Worm
+  Skull Conductor
+  Sun Dragon Inti
+  Underground Arachnid
+  XX-Saber Hyunlei
+  Zeman the Ape King
+Super - 9 cartas
+  Cards of Consonance
+  Dragon Queen of Tragic Endings
+  Fiendish Chain
+  Garlandolf, King of Destruction
+  Gravekeeper's Visionary
+  Koa'ki Meiru Urnight
+  Oracle of the Sun
+  Reptilianne Vaskii
+  Witch of the Black Rose
+Rare - 28 cartas
+  Alchemist of Black Spells
+  Cactus Bouncer
+  Codarus
+  Core Transport Unit
+  Cyber Dragon Zwei
+  Dark Bug
+  Djinn Disserere of Rituals
+  Drill Synchron
+  Earthbound Linewalker
+  Forgotten Temple of the Deep
+  Gravekeeper's Descendant
+  Gravekeeper's Priestess
+  Gundari
+  Inverse Universe
+  Iron Core Specimen Lab
+  Lair Wire
+  Magic Hole Golem
+  Offering to the Immortals
+  Pandaborg
+  Pot of Benevolence
+  Power Invader
+  Power Pickaxe
+  Reptilianne Rage
+  Shreddder
+  Synchro Control
+  Widespread Dud
+  XX-Saber Emmersblade
+  XX-Saber Garsem
+Common - 48 cartas
+  Advance Force
+  Alien Brain
+  Apocatequil
+  Ascending Soul
+  Battle Fader
+  Bicular
+  Black Potan
+  Break! Draw!
+  Call of the Reaper
+  Changing Destiny
+  Consecrated Light
+  Core Blast
+  Destruct Potion
+  Djinn Cursenchanter of Rituals
+  Djinn Prognosticator of Rituals
+  Dragonic Guard
+  Fire Ant Ascator
+  Gravekeeper's Stele
+  Informer Spider
+  Machine Assembly Line
+  Machine King - 3000 B.C.
+  Meteor Flare
+  Nature's Reflection
+  Ogre of the Scarlet Sorrow
+  Oilman
+  Power Supplier
+  Psi-Curse
+  Reptilianne Gardna
+  Reptilianne Naga
+  Reptilianne Servant
+  Ritual Cage
+  Ritual of Destruction
+  Rocket Pilder
+  Rose Fairy
+  Saber Hole
+  Serpent Suppression
+  Spiders' Lair
+  Supay
+  Super-Nimble Mega Hamster
+  Sword Master
+  Temple of the Sun
+  The Dragon Dwelling in the Deep
+  Tricular
+  Tuner's Scheme
+  Unicycular
+  Variety Comes Out
+  Viper's Rebirth
+  Weeping Idol
+Fuente: https://yugipedia.com/wiki/Absolute_Powerforce_(Duel_Transer)
+
+The Shining Darkness
+Ultra - 10 cartas
+  Ally of Justice Light Gazer
+  Black-Winged Dragon
+  Chaos Goddess
+  Chaos King Archfiend
+  Genex Neutron
+  Hydro Genex
+  Infernity Destroyer
+  Infernity Doom Dragon
+  Koa'ki Meiru Bergzak
+  Splendid Rose
+Super - 10 cartas
+  Bird of Roses
+  Blackwing - Breeze the Zephyr
+  Damage Gate
+  Genex Undine
+  Hunter of Black Feathers
+  Intercept Wave
+  Magidog
+  Power Frame
+  Trust Guardian
+  Wattgiraffe
+Rare - 19 cartas
+  Batteryman Fuel Cell
+  Blackwing - Gust the Backblast
+  Card Breaker
+  Cards for Black Feathers
+  Cherry Inmato
+  Crevice Into the Different Dimension
+  Delta Tri
+  Dread Dragon
+  Forbidden Graveyard
+  Genex Controller
+  Guard Mines
+  Infernity Avenger
+  Infernity Inferno
+  Into the Void
+  Koa'ki Meiru Sandman
+  Morphtronic Vacuumen
+  Revival Rose
+  Ronintoadin
+  ZERO-MAX
+Common - 51 cartas
+  Ally of Justice Core Destroyer
+  Archfiend Interceptor
+  Assault Spirits
+  Batteryman AAA
+  Biofalcon
+  Black Thunder
+  Blackwing - Backlash
+  Blackwing - Bombardment
+  Blackwing - Ghibli the Searing Wind
+  Black-Winged Strafe
+  Blossom Bombardment
+  Changer Synchron
+  Chaos Trap Hole
+  Corridor of Agony
+  Dawn of the Herald
+  Dragon Laser
+  Electromagnetic Shield
+  Fairy Archer
+  Flare Resonator
+  Genex Searcher
+  Herald of Perfection
+  Infernity Beetle
+  Infernity Break
+  Infernity Launcher
+  Infernity Mirage
+  Infernity Randomizer
+  Infernity Reflector
+  Key Mouse
+  Koa'ki Meiru Initialize!
+  Koa'ki Meiru Shield
+  Leeching the Light
+  Lyna the Light Charmer
+  Magic Triangle of the Ice Barrier
+  Memory Crush King
+  Morphtronics, Scramble!
+  Phantom Hand
+  Power Break
+  Pyramid of Wonders
+  Second Booster
+  Spore
+  Synchro Ejection
+  Synchro Magnet
+  Testudo erat Numen
+  The Fountain in the Sky
+  Trigon
+  Wattcube
+  Wattfox
+  Wattwoodpecker
+  Worm Call
+  X-Saber Palomuro
+  X-Saber Pashuul
+Fuente: https://yugipedia.com/wiki/The_Shining_Darkness_(Duel_Transer)
+
+Duelist Revolution
+Ultra - 5 cartas
+  Dragon Knight Draco-Equiste
+  Lightning Tricorn
+  Scrap Dragon
+  Voltic Bicorn
+  Wattchimera
+Super - 8 cartas
+  Amazoness Queen
+  Effect Veiler
+  Naturia Bamboo Shoot
+  Pot of Duality
+  Scrap Chimera
+  Thunder Unicorn
+  Trident Warrior
+  Ultimate Axon Kicker
+Rare - 17 cartas
+  Amazoness Village
+  Amazoness Willpower
+  Ambitious Gofer
+  Anti-Magic Prism
+  D.D. Unicorn Knight
+  Delta Flyer
+  Egotistical Ape
+  Horn of the Phantom Beast
+  Hypnocorn
+  Landoise's Luminous Moss
+  Monoceros
+  Parallel Selection
+  Reanimation Wave
+  Scrap Beast
+  Scrap Golem
+  Scrapstorm
+  Synchro Fusionist
+Common - 50 cartas
+  A/D Changer
+  Amazoness Fighting Spirit
+  Amazoness Sage
+  Amazoness Trainee
+  Barrier Wave
+  Battle Instinct
+  Beast Rage
+  Beast Rising
+  Bicorn Re'em
+  Blind Spot Strike
+  Chain Whirlwind
+  Chivalry
+  Cursed Armaments
+  Damage Eater
+  Dash Warrior
+  Desperate Tag
+  Double Cyclone
+  Earthquake Giant
+  Elephun
+  Final Psychic Ogre
+  Howl of the Wild
+  Light of Destruction
+  Lock Cat
+  Mine Mole
+  Miracle Synchro Fusion
+  Naturia Beans
+  Naturia Forest
+  Naturia Mosquito
+  Paradox Fusion
+  Pestilence
+  Playful Possum
+  Queen's Pawn
+  Rhinotaurus
+  Scrap Goblin
+  Scrap Hunter
+  Scrap Rage
+  Scrap Sheen
+  Scrapyard
+  Solemn Warning
+  Stronghold Guardian
+  Summoning Curse
+  Unibird
+  Unicorn Beacon
+  Uni-Horned Familiar
+  Wattbetta
+  Wattcannon
+  Wattcine
+  Wattlemur
+  Wattpheasant
+  Wiseman's Chalice
+Fuente: https://yugipedia.com/wiki/Duelist_Revolution_(Duel_Transer)
+
+Starstrike Blast
+Ultra - 5 cartas
+  Karakuri Shogun mdl 00 "Burei"
+  Red Nova Dragon
+  Scrap Twin Dragon
+  Shooting Star Dragon
+  Supreme Arcanite Magician
+Super - 9 cartas
+  Anarchist Monk Ranshin
+  Delg the Dark Monarch
+  Different Dimension Ground
+  Formula Synchron
+  Gaia Drake, the Universal Force
+  Karakuri Ninja mdl 339 "Sazank"
+  Power Breaker
+  Power Giant
+  Tuning
+Rare - 19 cartas
+  Blackback
+  Blackwing - Abrolhos the Megaquake
+  Blackwing - Aurora the Northern Lights
+  Chain Dog
+  Creation Resonator
+  Dance Princess of the Ice Barrier
+  Golden Gearbox
+  Gravity Collapse
+  Heat Wave
+  Karakuri Bushi mdl 6318 "Muzanichiha"
+  Karakuri Merchant mdl 177 "Inashichi"
+  Karakuri Showdown Castle
+  Lancer Archfiend
+  Mirror of the Ice Barrier
+  Naturia Cherries
+  Scrap Soldier
+  Tokkosho of Ghost Destroying
+  Tyrant's Temper
+  Wattsquirrel
+Common - 47 cartas
+  Attack Gainer
+  Axe of Fools
+  Barkion's Bark
+  Blackwing - Boobytrap
+  Blackwing - Etesian of Two Swords
+  Cursed Bill
+  D2 Shield
+  Dark Trap Hole
+  Darkworld Shackles
+  Defenders Intersect
+  Exterio's Fang
+  Extra Veiler
+  Glow-Up Bulb
+  Half Counter
+  Karakuri Anatomy
+  Karakuri Klock
+  Karakuri Soldier mdl 236 "Nisamu"
+  Karakuri Strategist mdl 248 "Nishipachi"
+  Karakuri Trick House
+  Koa'ki Ring
+  Leodrake's Mane
+  Medallion of the Ice Barrier
+  Mirror Ladybug
+  Naturia Pumpkin
+  Naturia Stag Beetle
+  Necro Linker
+  Needle Soldier
+  Powersink Stone
+  Red Screen
+  Reed Butterfly
+  Rescue Warrior
+  Scrap Crash
+  Scrap Lube
+  Scrap Searcher
+  Star Siphon
+  Swift Scarecrow
+  Synchro Soldier
+  Vanity's Emptiness
+  Vice Berserker
+  Wattcastle
+  Wattdragonfly
+  Watthopper
+  Wattjustment
+  Wattkeeper
+  Wattkiwi
+  White Elephant's Gift
+  Wightmare
+Fuente: https://yugipedia.com/wiki/Starstrike_Blast_(Duel_Transer)
+
+Premium Pack
+Ultra - 60 cartas
+  Alector, Sovereign of Birds
+  Ape Fighter
+  Backup Warrior
+  Blizzard Princess
+  Brain Crusher
+  Brutal Potion
+  Burning Skull Head
+  Chaos Burst
+  Chevalier de Fleur
+  Closed Forest
+  Dark Cure
+  Darklord Asmodeus
+  Darklord Desire
+  Darklord Edeh Arae
+  Darklord Superbia
+  Darkness Destroyer
+  Deep Diver
+  Destiny Hero - Disk Commander
+  Destiny Hero - Plasma
+  Dragunity Knight - Gae Dearg
+  Elemental Hero Absolute Zero
+  Elemental Hero The Shining
+  Emes the Infinity
+  Fleur Synchron
+  Gallis the Star Beast
+  Genex Ally Axel
+  Harpie's Feather Duster
+  Helios Duo Megistus
+  Hero Ring
+  Hunter Owl
+  Infernity Archfiend
+  Infernity Dwarf
+  Infernity Guardian
+  Inferno Hammer
+  Junk Collector
+  Liberty at Last!
+  Mad Reloader
+  Masked Chopper
+  Metal Shooter
+  Nurse Reficule the Fallen One
+  Phantom Beast Cross-Wing
+  Phantom Beast Thunder-Pegasus
+  Phantom Beast Wild-Horn
+  Regretful Rebirth
+  Roaring Earth
+  Sacred Knight Joan
+  Samurai Sword Baron
+  Skull Flame
+  Stygian Security
+  Stygian Sergeants
+  Stygian Street Patrol
+  Supersonic Skull Flame
+  Teva
+  The Winged Dragon of Ra
+  Twinheaded Beast
+  Vylon Delta
+  Warm Worm
+  White Night Queen
+  Winged Kuriboh LV9
+  Worm Bait
+Super - 3 cartas
+  Fairy King Truesdale
+  Valkyrion the Magna Warrior
+  Victory Dragon
+Rare - 10 cartas
+  Abyss Soldier
+  Alpha The Magnet Warrior
+  Blizzard Dragon
+  Dark Magician Knight
+  Des Mosquito
+  Harpie's Pet Dragon
+  Metalzoa
+  Miracle's Wake
+  Silent Swordsman LV7
+  Zoa
+Common - 31 cartas
+  Aggiba, the Malevolent Sh'nn S'yo
+  Armament of the Lethal Lords
+  Beta The Magnet Warrior
+  Black Luster Soldier
+  Chimaera, the Master of Beasts
+  Emperor of Lightning
+  Firewing Pegasus
+  Gamma The Magnet Warrior
+  Goblin Fan
+  Graceful Dice
+  Kanan the Swordmistress
+  King of Destruction - Xexex
+  Knight's Title
+  Lorelei, the Symphonic Arsenal
+  Meteo the Matchless
+  Queen of Fate - Eternia
+  Sage's Stone
+  Seal of the Ancients
+  Seiyaryu
+  Sengenjin
+  Silent Magician LV4
+  Silent Magician LV8
+  Sinister Serpent
+  Skull Dice
+  Skuna, the Leonine Rakan
+  Sword of Dragon's Soul
+  Testament of the Arcane Lords
+  Thousand Knives
+  Tyr, the Vanquishing Warlord
+  Ulevo
+  Windstorm of Etaqua
+Fuente: https://yugipedia.com/wiki/Premium_Pack_(Duel_Transer)
+
+Limited Edition Pack
+Ultra - 47 cartas
+  Ally of Justice Cyclone Creator
+  Ape Magician
+  Arcana Force EX - The Light Ruler
+  Beast King Barbaros
+  Chimeratech Fortress Dragon
+  Cyber Dinosaur
+  Cyber Eltanin
+  Dark End Dragon
+  Dark Highlander
+  Darkness Neosphere
+  Dragonic Knight
+  Dragunity Knight - Vajrayana
+  Dust Lord Ash Gash
+  Elemental Hero Neos Knight
+  Exodius the Ultimate Forbidden Lord
+  Fabled Raven
+  Gem-Knight Emerald
+  Genesis Dragon
+  Genex Ally Duradark
+  Hundred Eyes Dragon
+  Ignition Beast Volcannon
+  Junk Blader
+  Laval Twin Slayer
+  Lightning Warrior
+  Malefic Blue-Eyes White Dragon
+  Malefic Red-Eyes B. Dragon
+  Malefic Stardust Dragon
+  Malefic Truth Dragon
+  Orichalcos Shunoros
+  Phantom Magician
+  Queen Angel of Roses
+  Rose Witch
+  Sergeant Electro
+  Seven Swords Warrior
+  Shiba-Warrior Taro
+  The Atmosphere
+  The Fabled Rubyruda
+  The Tyrant Neptune
+  The Wicked Avatar
+  The Wicked Eraser
+  Thunder King Rai-Oh
+  Tragoedia
+  Transforming Sphere
+  Troposphere
+  Vice Dragon
+  Vision Hero Trinity
+  Vylon Ohm
+Super - 1 cartas
+  Magician of Black Chaos
+Rare - 33 cartas
+  Armored Bee
+  Athena
+  Coat of Justice
+  Cyber Larva
+  Dragonic Tactics
+  Elemental Hero Flash
+  Elemental Hero Great Tornado
+  Elemental Hero Heat
+  Elemental Hero Ice Edge
+  Elemental Hero Inferno
+  Elemental Hero Knospe
+  Elemental Hero Lady Heat
+  Elemental Hero Poison Rose
+  Elemental Hero Terra Firma
+  Elemental Hero Voltic
+  Elemental Hero Woodsman
+  Evil Dragon Ananta
+  Golem Dragon
+  Hecatrice
+  Hero's Bond
+  Lancer Lindwurm
+  Lion Alligator
+  Marshmallon
+  Mezuki
+  Parallel World Fusion
+  Poseidon Giant Beetle
+  Quick-Span Knight
+  Red-Eyes Black Metal Dragon
+  Rose Bud
+  Shield Crush
+  Spawn Alligator
+  Terra Firma Gravity
+  Valhalla, Hall of the Fallen
+Common - 21 cartas
+  Black Magic Ritual
+  Carrierroid
+  Danipon
+  Dark Magic Curtain
+  Gemini Imps
+  Gravity Behemoth
+  Javelin Beetle
+  Javelin Beetle Pact
+  Koalo-Koala
+  Legacy of Yata-Garasu
+  Marshmallon Glasses
+  Metalmorph
+  Return Zombie
+  Sengenjin
+  Super War-Lion
+  Sweet Corn
+  Vampire Koala
+  Voltic Kong
+  War-Lion Ritual
+  Zera Ritual
+  Zera the Mant
+Fuente: https://yugipedia.com/wiki/Limited_Edition_Pack_(Duel_Transer)
+
+Starter Deck 2010
+Ultra - 4 cartas
+  Junk Destroyer
+  Junk Warrior
+  X-Saber Urbellum
+  X-Saber Wayne
+Super - 7 cartas
+  Fortress Warrior
+  Gaia Knight, the Force of Earth
+  Monster Reincarnation
+  Powered Tuner
+  Rapid Warrior
+  Synchron Explorer
+  Trap Hole
+Rare - 9 cartas
+  Chainsaw Insect
+  Defense Draw
+  Enemy Controller
+  Graceful Revival
+  Hayabusa Knight
+  Level Warrior
+  Rising Energy
+  Rope of Life
+  Turret Warrior
+Common - 39 cartas
+  Banner of Courage
+  Battle Footballer
+  Blazing Inpachi
+  Card Destruction
+  Crimson Ninja
+  Dark Tinker
+  Dust Tornado
+  Frequency Magician
+  Giant Trunade
+  Giga Gagagigo
+  Goblin Attack Force
+  Half Shut
+  Hammer Shot
+  Hyper Synchron
+  Junk Synchron
+  Limit Reverse
+  Magic Jammer
+  Man-Eater Bug
+  Marauding Captain
+  Quickdraw Synchron
+  Quillbolt Hedgehog
+  Raigeki Break
+  Reinforcement of the Army
+  Sakuretsu Armor
+  Scrap-Iron Scarecrow
+  Secret Barrel
+  Speed Warrior
+  Synchro Boost
+  The Warrior Returning Alive
+  Threatening Roar
+  Tune Warrior
+  Twin-Sword Marauder
+  Twister
+  Unstable Evolution
+  Warrior Lady of the Wasteland
+  Water Spirit
+  Wild Tornado
+  Worm Apocalypse
+  X-Saber Galahad
+Fuente: https://yugipedia.com/wiki/Starter_Deck_2010_(Duel_Transer)

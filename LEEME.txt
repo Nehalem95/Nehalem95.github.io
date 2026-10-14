@@ -1,17 +1,20 @@
-Yu-Gi-Oh! GX Tag Force 2 + 5D's Duel Transer
+WEB YU-GI-OH! — TAG FORCE 2 + DUEL TRANSER
 
-INICIO
-1. Extraé todo el ZIP en una carpeta.
-2. Ejecutá Abrir_Base_YuGiOh.bat.
-3. La página necesita Internet para consultar los datos de cartas en YGOPRODeck.
+CAMBIOS
+- Duel Transer carga los packs, rarezas y condiciones desde Duel_Transer_packs.txt del repositorio público.
+- Se intenta primero el TXT local y luego la versión pública de GitHub como respaldo.
+- Los nombres y el orden salen del TXT; se valida que haya al menos 40 packs antes de reemplazar la base integrada.
+- Las rarezas se colorean como en Tag Force 2: Ultra/Secret = dorado, Super = plateado, Rare = bronce, Common = normal.
+- Se quitaron las comprobaciones/diagnósticos automáticos de imágenes al iniciar.
+- Las portadas de Duel Transer se buscan solo en images/packs-duel-transer/01.jpg ... 48.jpg. No se consultan APIs para portadas.
 
-DIAGNÓSTICO AUTOMÁTICO
-Al cargar la base, se comprueban las imágenes de las cartas listadas en ambos juegos. Se crea/actualiza DIAGNOSTICO_IMAGENES.txt en esta misma carpeta. El archivo indica las cartas que no encontraron coincidencia, que no tienen URL de imagen o cuya imagen no cargó, junto con el nombre buscado y los packs donde aparece.
-La primera comprobación puede tardar un rato porque verifica las imágenes de las cartas listadas.
+EJECUCIÓN
+1. Extraer todo el ZIP.
+2. Mantener conexión a Internet (la web consulta YGOPRODeck para imágenes/datos de cartas).
+3. Ejecutar Abrir_Base_YuGiOh.bat.
 
-IMÁGENES DE LOS PACKS
-- Tag Force 2: images/packs/01.jpg hasta 48.jpg.
-- Duel Transer: images/packs-duel-transer/01.jpg hasta 24.jpg.
-Las imágenes locales tienen prioridad. Si una imagen de Duel Transer falta, la página prueba la portada de la expansión si está disponible y, como último recurso, genera una portada genérica.
+PORTADAS
+Copiar las 48 imágenes locales en images/packs-duel-transer/ y nombrarlas 01.jpg, 02.jpg, ... 48.jpg en el mismo orden que el TXT. Si falta alguna, se verá una portada genérica.
 
-Si el archivo TXT no aparece, comprobá que la carpeta extraída no esté en modo solo lectura y que el archivo server.py esté junto a index.html.
+NOTA
+Si la web se publica en GitHub Pages, asegurarse de que Duel_Transer_packs.txt esté en la raíz del repositorio.

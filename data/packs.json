@@ -1,0 +1,342 @@
+{
+  "source": "GameFAQs Booster Pack FAQ (FAQ 50402)",
+  "source_url": "https://gamefaqs.gamespot.com/psp/939233-yu-gi-oh-gx-tag-force-2/faqs/50402",
+  "packs": [
+    {
+      "id": 1,
+      "name": "Beginner Monsters",
+      "image": "images/packs/01.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Beginner_Monsters_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 2,
+      "name": "Beginner Spells",
+      "image": "images/packs/02.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Beginner_Spells_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 3,
+      "name": "Beginner Traps",
+      "image": "images/packs/03.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Beginner_Traps_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 4,
+      "name": "Time to Gear Up",
+      "image": "images/packs/04.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Time_to_Gear_Up_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 5,
+      "name": "Intermediate Spells",
+      "image": "images/packs/05.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Intermediate_Spells_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 6,
+      "name": "Intermediate Traps",
+      "image": "images/packs/06.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Intermediate_Traps_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 7,
+      "name": "It's Fusion Time",
+      "image": "images/packs/07.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/It%27s_Fusion_Time_(Tag_Force_2)",
+      "cards": []
+    },
+    {
+      "id": 8,
+      "name": "Expert Spells",
+      "image": "images/packs/08.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Expert_Spells_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 9,
+      "name": "Expert Traps",
+      "image": "images/packs/09.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Expert_Traps_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 10,
+      "name": "Creeping Darkness",
+      "image": "images/packs/10.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Creeping_Darkness_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 11,
+      "name": "Dueling with Fire",
+      "image": "images/packs/11.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Dueling_with_Fire_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 12,
+      "name": "Raging Waters",
+      "image": "images/packs/12.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Raging_Waters_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 13,
+      "name": "A Gust of Wind",
+      "image": "images/packs/13.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/A_Gust_of_Wind_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 14,
+      "name": "Light from Above",
+      "image": "images/packs/14.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Light_from_Above_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 15,
+      "name": "Earthly Powers",
+      "image": "images/packs/15.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Earthly_Powers_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 16,
+      "name": "Taste the Attributes",
+      "image": "images/packs/16.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Taste_the_Attributes_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 17,
+      "name": "Power of the Heroes",
+      "image": "images/packs/17.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Power_of_the_Heroes_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 18,
+      "name": "Machiner's Force",
+      "image": "images/packs/18.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Machiner%27s_Force_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 19,
+      "name": "Cyber Girl Rhapsody",
+      "image": "images/packs/19.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Cyber_Girl_Rhapsody_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 20,
+      "name": "Ojama Strike",
+      "image": "images/packs/20.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Ojama_Strike_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 21,
+      "name": "Control Your Destiny",
+      "image": "images/packs/21.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Control_Your_Destiny_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 22,
+      "name": "Dino Power",
+      "image": "images/packs/22.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Dino_Power_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 23,
+      "name": "A Maiden's Love",
+      "image": "images/packs/23.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/A_Maiden%27s_Love_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 24,
+      "name": "Over the Rainbow",
+      "image": "images/packs/24.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Over_the_Rainbow_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 25,
+      "name": "Making the Team",
+      "image": "images/packs/25.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Making_the_Team_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 26,
+      "name": "Simple is Best",
+      "image": "images/packs/26.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Simple_is_Best_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 27,
+      "name": "Test of Luck",
+      "image": "images/packs/27.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Test_of_Luck_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 28,
+      "name": "Dramatic a la carte",
+      "image": "images/packs/28.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Dramatic_a_la_carte_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 29,
+      "name": "Vanilla Flavored",
+      "image": "images/packs/29.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Vanilla_Flavored_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 30,
+      "name": "Reserve Magic",
+      "image": "images/packs/30.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Reserve_Magic_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 31,
+      "name": "A Fresh, New Taste",
+      "image": "images/packs/31.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/A_Fresh,_New_Taste_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 32,
+      "name": "Magic Carpet",
+      "image": "images/packs/32.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Magic_Carpet_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 33,
+      "name": "A Dragon's Tale",
+      "image": "images/packs/33.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/A_Dragon%27s_Tale_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 34,
+      "name": "Back for More",
+      "image": "images/packs/34.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Back_for_More_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 35,
+      "name": "Twilight Ruler",
+      "image": "images/packs/35.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Twilight_Ruler_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 36,
+      "name": "Celestial Sign",
+      "image": "images/packs/36.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Celestial_Sign_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 37,
+      "name": "Banner of Courage",
+      "image": "images/packs/37.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Banner_of_Courage_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 38,
+      "name": "Don't Stop!",
+      "image": "images/packs/38.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Don%27t_Stop!_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 39,
+      "name": "Spice Up Your Deck",
+      "image": "images/packs/39.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Spice_Up_Your_Deck_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 40,
+      "name": "Rock Solid Tactics",
+      "image": "images/packs/40.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Rock_Solid_Tactics_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 41,
+      "name": "A Bug's Deal",
+      "image": "images/packs/41.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/A_Bug%27s_Deal_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 42,
+      "name": "Sadie's Special Pack",
+      "image": "images/packs/42.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Sadie%27s_Special_Pack_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 43,
+      "name": "Ms. Dorothy's Special Pack",
+      "image": "images/packs/43.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Ms._Dorothy%27s_Special_Pack_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 44,
+      "name": "Champion's Pack",
+      "image": "images/packs/44.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Champion%27s_Pack_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 45,
+      "name": "Crush on You",
+      "image": "images/packs/45.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Crush_on_You_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 46,
+      "name": "Midday Constellation",
+      "image": "images/packs/46.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Midday_Constellation_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 47,
+      "name": "Double Triple Destiny Draw",
+      "image": "images/packs/47.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Double_Triple_Destiny_Draw_%28Tag_Force_2%29",
+      "cards": []
+    },
+    {
+      "id": 48,
+      "name": "Checkered Flag",
+      "image": "images/packs/48.jpg",
+      "yugipedia": "https://yugipedia.com/wiki/Checkered_Flag_%28Tag_Force_2%29",
+      "cards": []
+    }
+  ]
+}

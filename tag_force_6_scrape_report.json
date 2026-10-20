@@ -1,0 +1,427 @@
+{
+  "total": 60,
+  "success": 60,
+  "failed": [],
+  "pages": {
+    "Novice Monsters": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Novice_Monsters",
+      "title": "Novice Monsters",
+      "cardRows": 72,
+      "error": null
+    },
+    "Novice Spells": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Novice_Spells",
+      "title": "Novice Spells",
+      "cardRows": 66,
+      "error": null
+    },
+    "Novice Traps": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Novice_Traps",
+      "title": "Novice Traps",
+      "cardRows": 54,
+      "error": null
+    },
+    "Standard Monsters": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Standard_Monsters",
+      "title": "Standard Monsters",
+      "cardRows": 86,
+      "error": null
+    },
+    "Standard Spells": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Standard_Spells",
+      "title": "Standard Spells",
+      "cardRows": 72,
+      "error": null
+    },
+    "Standard Traps": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Standard_Traps",
+      "title": "Standard Traps",
+      "cardRows": 59,
+      "error": null
+    },
+    "Expert Monsters": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Expert_Monsters",
+      "title": "Expert Monsters",
+      "cardRows": 70,
+      "error": null
+    },
+    "Expert Spells": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Expert_Spells_(Tag_Force_6)",
+      "title": "Expert Spells ( Tag Force 6 )",
+      "cardRows": 65,
+      "error": null
+    },
+    "Expert Traps": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Expert_Traps_(Tag_Force_6)",
+      "title": "Expert Traps ( Tag Force 6 )",
+      "cardRows": 52,
+      "error": null
+    },
+    "Grandmaster Catering": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Grandmaster_Catering",
+      "title": "Grandmaster Catering",
+      "cardRows": 167,
+      "error": null
+    },
+    "Super High Impact": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Super_High_Impact",
+      "title": "Super High Impact",
+      "cardRows": 103,
+      "error": null
+    },
+    "Show Under Lock And Key": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Show_Under_Lock_And_Key",
+      "title": "Show Under Lock And Key",
+      "cardRows": 108,
+      "error": null
+    },
+    "Rule the World": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Rule_the_World",
+      "title": "Rule the World",
+      "cardRows": 128,
+      "error": null
+    },
+    "Special Breakdown": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Special_Breakdown",
+      "title": "Special Breakdown",
+      "cardRows": 114,
+      "error": null
+    },
+    "Department of Burning Permission": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Department_of_Burning_Permission",
+      "title": "Department of Burning Permission",
+      "cardRows": 114,
+      "error": null
+    },
+    "Colorful Character": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Colorful_Character",
+      "title": "Colorful Character",
+      "cardRows": 100,
+      "error": null
+    },
+    "Basic Flavor": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Basic_Flavor",
+      "title": "Basic Flavor",
+      "cardRows": 125,
+      "error": null
+    },
+    "Melting Point": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Melting_Point",
+      "title": "Melting Point",
+      "cardRows": 102,
+      "error": null
+    },
+    "Memories of Heroic Tales": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Memories_of_Heroic_Tales",
+      "title": "Memories of Heroic Tales",
+      "cardRows": 104,
+      "error": null
+    },
+    "Master of Ceremony": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Master_of_Ceremony",
+      "title": "Master of Ceremony",
+      "cardRows": 76,
+      "error": null
+    },
+    "Horns, Wings, Talons, Scales and Fangs": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Horns,_Wings,_Talons,_Scales_and_Fangs",
+      "title": "Horns, Wings, Talons, Scales and Fangs",
+      "cardRows": 83,
+      "error": null
+    },
+    "Whispering Chants": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Whispering_Chants",
+      "title": "Whispering Chants",
+      "cardRows": 82,
+      "error": null
+    },
+    "Armored Frontliners": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Armored_Frontliners",
+      "title": "Armored Frontliners",
+      "cardRows": 84,
+      "error": null
+    },
+    "Forceful Hardware": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Forceful_Hardware",
+      "title": "Forceful Hardware",
+      "cardRows": 88,
+      "error": null
+    },
+    "Immaculate Emmisaries": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Immaculate_Emmisaries",
+      "title": "Immaculate Emmisaries",
+      "cardRows": 84,
+      "error": null
+    },
+    "House of Darkness": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/House_of_Darkness",
+      "title": "House of Darkness",
+      "cardRows": 108,
+      "error": null
+    },
+    "Sign of the Wild": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Sign_of_the_Wild",
+      "title": "Sign of the Wild",
+      "cardRows": 86,
+      "error": null
+    },
+    "Fly, Biotope": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Fly,_Biotope",
+      "title": "Fly, Biotope",
+      "cardRows": 81,
+      "error": null
+    },
+    "Ruler of Another Land": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Ruler_of_Another_Land",
+      "title": "Ruler of Another Land",
+      "cardRows": 79,
+      "error": null
+    },
+    "Coastal Phenomenon": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Coastal_Phenomenon",
+      "title": "Coastal Phenomenon",
+      "cardRows": 85,
+      "error": null
+    },
+    "Is That Me In Your Heart?": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Is_That_Me_In_Your_Heart%3F",
+      "title": "Is That Me In Your Heart?",
+      "cardRows": 103,
+      "error": null
+    },
+    "I Burn And Burn And Burn": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/I_Burn_And_Burn_And_Burn",
+      "title": "I Burn And Burn And Burn",
+      "cardRows": 96,
+      "error": null
+    },
+    "Bolt from Me": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Bolt_from_Me",
+      "title": "Bolt from Me",
+      "cardRows": 101,
+      "error": null
+    },
+    "News from Me": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/News_from_Me",
+      "title": "News from Me",
+      "cardRows": 104,
+      "error": null
+    },
+    "Like An Uncut Gem Without Me": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Like_An_Uncut_Gem_Without_Me",
+      "title": "Like An Uncut Gem Without Me",
+      "cardRows": 119,
+      "error": null
+    },
+    "Connected to Me": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Connected_to_Me",
+      "title": "Connected to Me",
+      "cardRows": 119,
+      "error": null
+    },
+    "Someone Is Me, Yet I Am Someone As Well": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Someone_Is_Me,_Yet_I_Am_Someone_As_Well",
+      "title": "Someone Is Me, Yet I Am Someone As Well",
+      "cardRows": 1,
+      "error": null
+    },
+    "Overlay Network": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Overlay_Network_(Tag_Force_6)",
+      "title": "Overlay Network ( Tag Force 6 )",
+      "cardRows": 74,
+      "error": null
+    },
+    "Resonating Harmony": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Resonating_Harmony",
+      "title": "Resonating Harmony",
+      "cardRows": 56,
+      "error": null
+    },
+    "Plain Flavor": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Plain_Flavor",
+      "title": "Plain Flavor",
+      "cardRows": 444,
+      "error": null
+    },
+    "Bonds Illuminating the Future": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Bonds_Illuminating_the_Future",
+      "title": "Bonds Illuminating the Future",
+      "cardRows": 142,
+      "error": null
+    },
+    "Pulse of A Wild Soul": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Pulse_of_A_Wild_Soul",
+      "title": "Pulse of A Wild Soul",
+      "cardRows": 73,
+      "error": null
+    },
+    "Great Black Wings": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Great_Black_Wings",
+      "title": "Great Black Wings",
+      "cardRows": 49,
+      "error": null
+    },
+    "Fragrance of the Pitch-Black Rose": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Fragrance_of_the_Pitch-Black_Rose",
+      "title": "Fragrance of the Pitch-Black Rose",
+      "cardRows": 100,
+      "error": null
+    },
+    "Holy Revolution": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Holy_Revolution",
+      "title": "Holy Revolution",
+      "cardRows": 96,
+      "error": null
+    },
+    "C'mon, Infinite Power!": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/C'mon,_Infinite_Power!",
+      "title": "C'mon, Infinite Power!",
+      "cardRows": 31,
+      "error": null
+    },
+    "Eternal Cage": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Eternal_Cage",
+      "title": "Eternal Cage",
+      "cardRows": 57,
+      "error": null
+    },
+    "Continental Circus": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Continental_Circus",
+      "title": "Continental Circus",
+      "cardRows": 53,
+      "error": null
+    },
+    "Troublesome Guys": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Troublesome_Guys",
+      "title": "Troublesome Guys",
+      "cardRows": 74,
+      "error": null
+    },
+    "Look for the Idols": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Look_for_the_Idols",
+      "title": "Look for the Idols",
+      "cardRows": 104,
+      "error": null
+    },
+    "True Time Traveler": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/True_Time_Traveler",
+      "title": "True Time Traveler",
+      "cardRows": 84,
+      "error": null
+    },
+    "Non-Stop Trauma": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Non-Stop_Trauma",
+      "title": "Non-Stop Trauma",
+      "cardRows": 60,
+      "error": null
+    },
+    "A Thesis Beyond Time": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/A_Thesis_Beyond_Time",
+      "title": "A Thesis Beyond Time",
+      "cardRows": 93,
+      "error": null
+    },
+    "Feeling the Flow": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Feeling_the_Flow_(Tag_Force_6)",
+      "title": "Feeling the Flow ( Tag Force 6 )",
+      "cardRows": 33,
+      "error": null
+    },
+    "It's Really Taboo": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/It's_Really_Taboo",
+      "title": "It's Really Taboo",
+      "cardRows": 71,
+      "error": null
+    },
+    "My Wife Plus Plus": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/My_Wife_Plus_Plus",
+      "title": "My Wife Plus Plus",
+      "cardRows": 75,
+      "error": null
+    },
+    "High Noon Constellation": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/High_Noon_Constellation_(Tag_Force_6)",
+      "title": "High Noon Constellation ( Tag Force 6 )",
+      "cardRows": 62,
+      "error": null
+    },
+    "Previous Generation": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Previous_Generation",
+      "title": "Previous Generation",
+      "cardRows": 82,
+      "error": null
+    },
+    "Special Gift": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Special_Gift",
+      "title": "Special Gift",
+      "cardRows": 56,
+      "error": null
+    },
+    "Final Checkered Flag": {
+      "ok": true,
+      "url": "https://yugipedia.com/wiki/Final_Checkered_Flag",
+      "title": "Final Checkered Flag",
+      "cardRows": 2,
+      "error": null
+    }
+  }
+}
